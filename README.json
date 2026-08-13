@@ -196,7 +196,7 @@
             "last_commit": "2026-03-26T22:58:45Z",
             "owner": "surikov",
             "repo": "webaudiofont",
-            "stars": 985
+            "stars": 986
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-07T12:36:37Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14714
+            "stars": 14713
           }
         },
         {
@@ -1468,7 +1468,7 @@
             "last_commit": "2026-08-12T14:13:19Z",
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3091
+            "stars": 3092
           }
         },
         {
@@ -1597,7 +1597,7 @@
             "last_commit": "2026-08-10T05:53:53Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10370
+            "stars": 10371
           }
         },
         {
@@ -1903,7 +1903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:05.815Z",
+    "last_updated": "2026-08-13T14:46:12.708Z",
     "original_repository": "sc0ttj/awesome-javascript-audio",
     "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
     "enhanced_repository": "enhansome/enhansome-javascript-audio",
