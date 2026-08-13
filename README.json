@@ -1,0 +1,1913 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles and videos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "howler.js",
+          "description": "cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-23T23:49:01Z",
+            "owner": "goldfire",
+            "repo": "howler.js",
+            "stars": 25332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kittykatattack/sound.js",
+          "description": "micro library to load, generate and play sounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-25T20:23:17Z",
+            "owner": "kittykatattack",
+            "repo": "sound.js",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webaudio-peaks",
+          "description": "small library to get peaks from audio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T09:40:55Z",
+            "owner": "naomiaro",
+            "repo": "webaudio-peaks",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scriptify/sountility",
+          "description": "includes many small packages for adding, mixing, toggling effects on AudioNodes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-03T19:40:34Z",
+            "owner": "scriptify",
+            "repo": "sountility",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notthetup/smoothfade",
+          "description": "smooth fade between AudioNodes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-09T02:54:24Z",
+            "owner": "notthetup",
+            "repo": "smoothfade",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Libraries: Web Audio API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cwilso/WebMIDIAPIShim",
+          "description": "popular polyfill, used by Jazzsoft, among others. Test it here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-28T22:47:12Z",
+            "owner": "cwilso",
+            "repo": "WebMIDIAPIShim",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jazz-soft/WebMIDIAPIShim",
+          "description": "MIDI polyfill for in older browsers and Node",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-06-14T00:07:58Z",
+            "owner": "jazz-soft",
+            "repo": "WebMIDIAPIShim",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Libraries: Web MIDI API"
+    },
+    {
+      "description": "Tutorials and teachers:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scribbletune/johann",
+          "description": "Generate chord & scale charts to practice - for guitar, piano and PC keyboard (repo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-28T04:58:37Z",
+            "owner": "scribbletune",
+            "repo": "johann",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "play-along",
+          "description": "learn the drums using a sequencer-like UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T10:17:58Z",
+            "owner": "bobbyrne01",
+            "repo": "play-along",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keystack",
+          "description": "A web-based circular visualizer for keyboards (circle of fifths).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T07:22:34Z",
+            "owner": "danielgamage",
+            "repo": "keystack",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harmonizer",
+          "description": "interactive piano that teaches harmony and rhythm theory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-02T14:42:10Z",
+            "owner": "flosSoftware",
+            "repo": "harmonizer",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Music theory"
+    },
+    {
+      "description": "Sounds that can be downloaded and used in your JS applications:",
+      "items": [],
+      "title": "Sound assets"
+    },
+    {
+      "description": "Instruments and sounds you can attach to MIDI notes (using the Web MIDI API):",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "surikov/webaudiofont",
+          "description": "use full GM set of musical instruments to play MIDI and single sounds or effects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-26T22:58:45Z",
+            "owner": "surikov",
+            "repo": "webaudiofont",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midi-js-soundfonts",
+          "description": "pre-rendered, MIDI soundfonts for use with MIDI.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-09T17:03:34Z",
+            "owner": "gleitz",
+            "repo": "midi-js-soundfonts",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soundfont-player",
+          "description": "nice little library for loading and playing sound fonts",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-16T17:00:54Z",
+            "owner": "danigb",
+            "repo": "soundfont-player",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "colinbdclark/sf2-parser",
+          "description": "a SoundFont 2 parser, extracted from sf2synth.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-14T16:21:09Z",
+            "owner": "colinbdclark",
+            "repo": "sf2-parser",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PatrickWolleb/SoundFontJS",
+          "description": "Node JS CLI for creating MIDI.JS ready sound fonts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-13T11:35:45Z",
+            "owner": "PatrickWolleb",
+            "repo": "SoundFontJS",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skratchdot/soundfont2mp3",
+          "description": "a command line tool for extracting single note mp3s from soundfont files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-05T07:38:38Z",
+            "owner": "skratchdot",
+            "repo": "soundfont2mp3",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midijssf-from-sf2-pmb",
+          "description": "utilities for converting soundfonts to MIDI.js format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-25T14:45:15Z",
+            "owner": "mk-pmb",
+            "repo": "midijssf-from-sf2-pmb",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "letoribo/percussion-soundfonts",
+          "description": "soundfonts for JZZ.synth.MIDI.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-18T14:11:26Z",
+            "owner": "letoribo",
+            "repo": "percussion-soundfonts",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timbre_soundfonts.js",
+          "description": "soundfonts for timbre.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-04-25T05:29:57Z",
+            "owner": "skratchdot",
+            "repo": "timbre.soundfont.js",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryanwhite04/soundfonts",
+          "description": "includes lots of instruments, in mp3 and ogg",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-26T11:31:02Z",
+            "owner": "ryanwhite04",
+            "repo": "soundfonts",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "montyanderson/soundfont-parser",
+          "description": "soundfont parser that gets the detais/contents of .sfz files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-06T11:50:19Z",
+            "owner": "montyanderson",
+            "repo": "soundfont-parser",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danigb/sampler.js",
+          "description": "simple sampler, defines instruments as JSON, with base64 mp3s in them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-06T17:11:09Z",
+            "owner": "danigb",
+            "repo": "sampler.js",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sccherry/soundfont",
+          "description": "soundfont piano player, uses 'FluidR3_GM', 'MusyngKite', 'FatBoy' (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-09-06T17:30:40Z",
+            "owner": "ok-steve",
+            "repo": "soundfont",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "SoundFonts"
+    },
+    {
+      "description": "Programmatically create notes, chords, intervals, effects, etc:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tone.js",
+          "description": "A Web Audio framework for making interactive music in the browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T12:36:37Z",
+            "owner": "Tonejs",
+            "repo": "Tone.js",
+            "stars": 14714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teoria",
+          "description": "create notes, chords, scales, intervals.. get notes form intervals, and more..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-01T00:57:13Z",
+            "owner": "saebekassebil",
+            "repo": "teoria",
+            "stars": 1375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beep.js",
+          "description": "a JavaScript toolkit for building browser-based synthesizers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-10T00:18:52Z",
+            "owner": "stewdio",
+            "repo": "beep.js",
+            "stars": 1369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timbre.js",
+          "description": "JavaScript library for objective sound programming (archived)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-05-12T14:35:03Z",
+            "owner": "mohayonao",
+            "repo": "timbre.js",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tonejs-instruments",
+          "description": "instrument presets for Tone.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-01T07:02:36Z",
+            "owner": "nbrosowsky",
+            "repo": "tonejs-instruments",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octavian",
+          "description": "utilities for reasoning about musical notes, frequencies, and intervals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T07:00:13Z",
+            "owner": "stevekinney",
+            "repo": "octavian",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simpleTones",
+          "description": "create tones of a specfic note - add sawtooth, sine, triangle, etc, to modify",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T01:12:01Z",
+            "owner": "escottalexander",
+            "repo": "simpleTones.js",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scribbletune",
+          "description": "generate chord progressions, scales, beats, save as MIDI clips, with a teacher app and sampler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-28T04:58:37Z",
+            "owner": "scribbletune",
+            "repo": "johann",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "note-parser",
+          "description": "Given a string, obtain a hash with note properties (including midi number and frequency)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-04T22:23:41Z",
+            "owner": "danigb",
+            "repo": "note-parser",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btwael/zazate.js",
+          "description": "make notes, tones, scales, chords, harmonies.. loads of functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-07T09:40:27Z",
+            "owner": "btwael",
+            "repo": "zazate.js",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midiflip",
+          "description": "transpose, flip, reverse notes, etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-26T23:06:14Z",
+            "owner": "1j01",
+            "repo": "midiflip",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flocking",
+          "description": "declaratively create sounds, synths, effects, etc, as JSON objects, supports mouse/trackpad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-10T22:05:50Z",
+            "owner": "colinbdclark",
+            "repo": "Flocking",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Sound creation"
+    },
+    {
+      "description": "These produce sounds which oscillate between two values on a low frequency, following a given waveform. LFOs are usually used to create effects like pitch wobble, tremelo, and wah-wah-wah stuff. These effect are then applied to notes, synths or instruments.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scijs/periodic-function",
+          "description": "oscillator modifiers (sawtooth, square, sine, pulse, step, interpolate, etc) as JS functions, normalized 0..1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T01:12:20Z",
+            "owner": "scijs",
+            "repo": "periodic-function",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mohayonao/wave-tables",
+          "description": "JSON files defining various sounds/instruments as wave tables",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-09-05T20:59:48Z",
+            "owner": "mohayonao",
+            "repo": "wave-tables",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiojs/audio-oscillator",
+          "description": "Generate periodic oscillation into an array/audiobuffer using a simple API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-05-25T04:08:32Z",
+            "owner": "audiojs",
+            "repo": "audio-oscillator",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheTeapot418/LFO.js",
+          "description": "a simple LFO in JavaScript, includes presets: sine, triangle, square, sawtooth, noise",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-05T19:24:50Z",
+            "owner": "TheTeapot418",
+            "repo": "LFO.js",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diversen/wave-table-oscillators",
+          "description": "wrappers around the wave tables above (allows you to use them)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-02T12:01:12Z",
+            "owner": "diversen",
+            "repo": "wave-table-oscillators",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2xAA/LFO.js",
+          "description": "a fork of the above",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-18T15:05:59Z",
+            "owner": "2xAA",
+            "repo": "LFO.js",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Low frequency oscillators (\"LFOs\"):"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sound editing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wad",
+          "description": "advanced processing/manipulating of sound files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-06T22:42:39Z",
+            "owner": "rserota",
+            "repo": "wad",
+            "stars": 1981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuna",
+          "description": "an audio effects library for the Web Audio API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-06T21:23:08Z",
+            "owner": "Theodeus",
+            "repo": "tuna",
+            "stars": 1828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alemangui/pizzicato",
+          "description": "excellent sound shaping effects, nice demos showing guitar sounds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-09T10:54:49Z",
+            "owner": "alemangui",
+            "repo": "pizzicato",
+            "stars": 1712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scriptify/Chnl",
+          "description": "makes it easy to attach lots of effects to a single AudioNode of any kind",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-26T13:09:01Z",
+            "owner": "scriptify",
+            "repo": "Chnl",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Sound effects/processing"
+    },
+    {
+      "description": "Modify a sound with more/less attack, delay, sustain, release, etc.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mohayonao/adsr-envelope",
+          "description": "attack, delay, sustain, release and MORE, lots of options",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-06T02:29:28Z",
+            "owner": "mohayonao",
+            "repo": "adsr-envelope",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "itsjoesullivan/envelope-generator",
+          "description": "nice and complete, lots of options",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-04T22:54:48Z",
+            "owner": "itsjoesullivan",
+            "repo": "envelope-generator",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmckegg/adsr",
+          "description": "attack, delay, sustain, release envelopes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-07-13T22:52:24Z",
+            "owner": "mmckegg",
+            "repo": "adsr",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "ADSR envelopes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GraphicalFilterEditor",
+          "description": "very powerful sound shaping :)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-28T20:52:25Z",
+            "owner": "carlosrafaelgn",
+            "repo": "GraphicalFilterEditor",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eAudio",
+          "description": "the \"Extended HTML Audio Object\" - adds an equalizier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-27T06:51:32Z",
+            "owner": "DIDAVA",
+            "repo": "eAudio",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Sound equalizers"
+    },
+    {
+      "description": "Frontends and UIs to load & your play your sounds.",
+      "items": [],
+      "title": "MIDI instruments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cwilso/MIDIDrums",
+          "description": "MIDI version of Shiny Drum Machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-14T11:31:03Z",
+            "owner": "cwilso",
+            "repo": "MIDIDrums",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "completejavascript/drum-machine",
+          "description": "simple react based MPD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-07T15:13:08Z",
+            "owner": "completejavascript",
+            "repo": "drum-machine",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dburles/ssu16",
+          "description": "very slick Akai-like MPC, with step sequencing, sample import, much more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-22T00:28:41Z",
+            "owner": "dburles",
+            "repo": "ssu16",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dusanpopov/Drum-machine",
+          "description": "an AKAI-like MPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-02-03T03:47:48Z",
+            "owner": "dusanpopov",
+            "repo": "Drum-machine",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction-to-Programming-Term-1-Project",
+          "description": "USB MIDI drum pad and keyboard, uses ,",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-11-28T18:29:31Z",
+            "owner": "wtznc",
+            "repo": "Introduction-to-Programming-Term-1-Project",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webmaeistro/drum-machine",
+          "description": "nice, simple one, no lag, works well",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-19T01:24:25Z",
+            "owner": "webmaeistro",
+            "repo": "drum-machine",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electric-drums-pwa",
+          "description": "simple, buttons at bottom, good performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-24T13:01:41Z",
+            "owner": "khayati-asrani",
+            "repo": "electric-drums-pwa",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Drum pads / MPC / MPD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vitaliy-bobrov/js-rocks",
+          "description": "lots of nice electric guitar effects, amps and cabinets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-21T02:46:47Z",
+            "owner": "vitaliy-bobrov",
+            "repo": "js-rocks",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1j01/guitar",
+          "description": "drag over the strings to play",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-21T05:53:25Z",
+            "owner": "1j01",
+            "repo": "guitar",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ronkot/ks-guitar",
+          "description": "play chords with keyboard keys, and strum with up/down keys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-11T06:16:58Z",
+            "owner": "ronkot",
+            "repo": "ks-guitar",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Guitar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WarpPrism/AutoPiano",
+          "description": "feature-packed, large piano",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-23T16:51:40Z",
+            "owner": "AutoPiano",
+            "repo": "AutoPiano",
+            "stars": 6037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wscats/piano",
+          "description": "nice piano, decent sounds, can make it play for you",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-31T23:32:11Z",
+            "owner": "Wscats",
+            "repo": "piano",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qwerty-hancock",
+          "description": "simple JS piano component for larger projects, see qwerty hancock",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-28T00:24:13Z",
+            "owner": "stuartmemo",
+            "repo": "qwerty-hancock",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midi-with-node",
+          "description": "a web based GUI & NodeJS backend that can register as a MIDI device in your DAW",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-25T05:23:21Z",
+            "owner": "Pomax",
+            "repo": "midi-with-node",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iBundin/Open-Web-Piano",
+          "description": "nice piano, user-friendly: supports choosing a MIDI device on load",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-13T23:09:02Z",
+            "owner": "iBundin",
+            "repo": "Open-Web-Piano",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tri-chromatic-keyboard",
+          "description": "nice, easy way to play piano for those who can't play piano (different key layout)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-27T22:14:31Z",
+            "owner": "1j01",
+            "repo": "tri-chromatic-keyboard",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TomerAberbach/piano",
+          "description": "very nice sounding piano, simple UI",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-10T19:46:14Z",
+            "owner": "TomerAberbach",
+            "repo": "piano",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noodle-doodle",
+          "description": "a nice piano roll, demo here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-24T01:04:49Z",
+            "owner": "Pomax",
+            "repo": "noodle-doodle",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Piano"
+    },
+    {
+      "description": "Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, bass-lines, loops and so on.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SpessaSynth",
+          "description": "MIDI player with tracker, loads of settings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:06:41Z",
+            "owner": "spessasus",
+            "repo": "SpessaSynth",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efflux-tracker",
+          "description": "browser based music tracker (here) driving a modular synth environment with MIDI support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T14:18:52Z",
+            "owner": "igorski",
+            "repo": "efflux-tracker",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinysynth",
+          "description": "a nice little sequencer, easy to use, nice UI, generate random tracks",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-07-10T18:53:35Z",
+            "owner": "n1k0",
+            "repo": "tinysynth",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hatsumatsu/108",
+          "description": "a slick, minimalist circular beat sequencer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-28T09:32:20Z",
+            "owner": "hatsumatsu",
+            "repo": "108",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-drum-sequencer",
+          "description": "A drum machine and sequencer built with the Web Audio API, React, and Redux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-03T11:03:37Z",
+            "owner": "stufreen",
+            "repo": "web-drum-sequencer",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nicolas-van/sonant-x-live",
+          "description": "piano keyboard, filters, synth, sequencer, uses sonant-x",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-08T11:36:39Z",
+            "owner": "nicolas-van",
+            "repo": "sonant-x-live",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "da-beat-sequencer",
+          "description": "lightweight MIDI and audio sequencer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-05T01:55:31Z",
+            "owner": "juniorheptachords",
+            "repo": "da-beat-sequencer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "andrefcasimiro/midikrew",
+          "description": "full fledged music sequencer, built with React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-19T01:13:18Z",
+            "owner": "andrefcasimiro",
+            "repo": "midikrew",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drum-sequencer",
+          "description": "lightweight sequencer, simple UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-02T13:27:35Z",
+            "owner": "bweave",
+            "repo": "drum-sequencer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drum-machine",
+          "description": "simple sequencer, based on React",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-18T12:49:54Z",
+            "owner": "gerhynes",
+            "repo": "drum-machine",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Sequencers & Trackers"
+    },
+    {
+      "description": "Generate and edit your own sounds, voices and sound effects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stevengoldberg/juno106",
+          "description": "a Roland Juno 106 synth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-19T02:05:44Z",
+            "owner": "stevengoldberg",
+            "repo": "juno106",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hundredrabbits/Marabu",
+          "description": "powerful synth, with GUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-16T03:50:45Z",
+            "owner": "hundredrabbits",
+            "repo": "Marabu",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webaudio-tinysynth",
+          "description": "webaudio-tinysynth is a small synthesizer written in JavaScript with GM like timbre map",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-20T04:31:49Z",
+            "owner": "g200kg",
+            "repo": "webaudio-tinysynth",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nicolas-van/sonant-x",
+          "description": "lightweight synth library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-18T05:44:39Z",
+            "owner": "nicolas-van",
+            "repo": "sonant-x",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "errozero/poly-synth",
+          "description": "fully-fledged synth, with GUI, presets, etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-25T20:38:41Z",
+            "owner": "errozero",
+            "repo": "poly-synth",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "francoisgeorgy/BS2-Web",
+          "description": "a very polished web interface for the BassStation II synth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-21T15:30:19Z",
+            "owner": "francoisgeorgy",
+            "repo": "BS2-Web",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jssynth",
+          "description": "powerful synth and sequencer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T19:53:00Z",
+            "owner": "jstrait",
+            "repo": "jssynth",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sf2synth.js",
+          "description": "a WebMidiLink based synthesizer with SoundFont support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T01:36:42Z",
+            "owner": "logue",
+            "repo": "sf2synth.js",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okaybenji/subpoly",
+          "description": "small multi-voice (polyphonic) synth, define sounds as JS objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-10T15:53:43Z",
+            "owner": "okaybenji",
+            "repo": "subpoly",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okaybenji/submono",
+          "description": "small mono-voice (monophonic) synth, define sounds as JS objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-13T17:24:22Z",
+            "owner": "okaybenji",
+            "repo": "submono",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ronkot/ks-guitar-synth",
+          "description": "guitair synth, using Karplus-Strong algorithm. See ks-guitar for UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-11T06:09:11Z",
+            "owner": "ronkot",
+            "repo": "ks-guitar-synth",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kevin-chau/minimoog.js",
+          "description": "a Minimoog synth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-10T02:59:29Z",
+            "owner": "kevin-chau",
+            "repo": "minimoog.js",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diversen/pluggable-synth",
+          "description": "small synth, lightweight piano UI, supports MIDI or keyboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-12T17:17:57Z",
+            "owner": "diversen",
+            "repo": "pluggable-synth",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinusw/webAudioSynth",
+          "description": "has 2 oscillators with XY pads, and a piano keyboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-28T15:12:02Z",
+            "owner": "Tinusw",
+            "repo": "webAudioSynth",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZulfadhliM/web-synth",
+          "description": "basic synth with LFO modulation and XY pad, React-based",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-01T16:10:56Z",
+            "owner": "ZulfadhliM",
+            "repo": "web-synth",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Synths"
+    },
+    {
+      "description": "These are more complete - they have multiple instruments.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "midi-sounds-react",
+          "description": "nice examples of using soundfonts, includes a simple music sequencer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-23T17:14:54Z",
+            "owner": "surikov",
+            "repo": "midi-sounds-react",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebMIDICon",
+          "description": "nice collection of online instruments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-28T06:01:38Z",
+            "owner": "dtinth",
+            "repo": "WebMIDICon",
+            "stars": 98
+          }
+        }
+      ],
+      "title": "Multi-instruments"
+    },
+    {
+      "description": "A \"DAW\" is a digital audio workstation - an all-round music production app",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zrythm",
+          "description": "requires isgn up. A highly automated and intuitive DAW",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:13:19Z",
+            "owner": "zrythm",
+            "repo": "zrythm",
+            "stars": 3091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gridsound",
+          "description": "a lovely open source DAW, uses Web Audio API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T19:09:42Z",
+            "owner": "gridsound",
+            "repo": "daw",
+            "stars": 1848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TReactor",
+          "description": "a Traktor clone, written in React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T23:19:16Z",
+            "owner": "kevin-chau",
+            "repo": "TReactr",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XinDaw",
+          "description": "a multiscreen Web-based DAW designed for audio&video live performances (Tone.js/React/Meteor)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T14:19:13Z",
+            "owner": "dotgreg",
+            "repo": "XinDaw",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Complete DAWs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UI components and libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "r-audio",
+          "description": "WebAudio API using JSX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T15:15:14Z",
+            "owner": "bbc",
+            "repo": "r-audio",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TReactor",
+          "description": "a Traktor clone, written in React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T23:19:16Z",
+            "owner": "kevin-chau",
+            "repo": "TReactr",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kedromelon/mdlr",
+          "description": "like above, but more for sound generation (oscillators, tones, waveforms, synths)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-16T16:44:23Z",
+            "owner": "noahlemen",
+            "repo": "mdlr",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-midi-device-provider",
+          "description": "simple MIDI device/messages handler for react",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-02T17:24:17Z",
+            "owner": "mmmerl",
+            "repo": "react-midi-device-provider",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "React components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "katspaugh/wavesurfer.js",
+          "description": "generate navigable waveforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T05:53:53Z",
+            "owner": "katspaugh",
+            "repo": "wavesurfer.js",
+            "stars": 10370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bbc/peaks.js",
+          "description": "UI component for interacting with waveforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-08T03:09:27Z",
+            "owner": "bbc",
+            "repo": "peaks.js",
+            "stars": 3405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WFPlayer",
+          "description": "an audio waveform generator, nice features",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-04-02T06:54:30Z",
+            "owner": "zhw2590582",
+            "repo": "WFPlayer",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio-oscilloscope",
+          "description": "waveform vizualiser for HTML5 Canvas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:34:06Z",
+            "owner": "mathiasvr",
+            "repo": "audio-oscilloscope",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waveplayer.js",
+          "description": "mp3 player that produces wavforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T08:32:24Z",
+            "owner": "michaeldzjap",
+            "repo": "waveplayer",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrisweb/waveform-visualizer",
+          "description": "waveform generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T16:47:53Z",
+            "owner": "chrisweb",
+            "repo": "waveform-visualizer",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio-to-svg-waveform",
+          "description": "simple, generates SVGs, nothing else",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-01T23:25:11Z",
+            "owner": "invokemedia",
+            "repo": "audio-to-svg-waveform",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patidar-suresh/audio-waveform",
+          "description": "uses HTML5 Canvas and requestAnimationFrame",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-23T00:32:40Z",
+            "owner": "patidar-suresh",
+            "repo": "audio-waveform",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Visual waveform generators"
+    },
+    {
+      "description": "Also known as \"graph editors\".\nLink your sounds, effects, inputs & outputs together with a drag and drop interface:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cwilso/WebAudio",
+          "description": "awesome, easy-to-use node editor, with demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-07T01:15:00Z",
+            "owner": "cwilso",
+            "repo": "WebAudio",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g200kg/WebAudioDesigner",
+          "description": "nice node based sound designer demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-21T20:13:19Z",
+            "owner": "g200kg",
+            "repo": "WebAudioDesigner",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dataflow-webaudio",
+          "description": "Dataflow graph editor + Web Audio API - demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-08-11T06:51:33Z",
+            "owner": "forresto",
+            "repo": "dataflow-webaudio",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tai2/webaudiocomposer",
+          "description": "audio node-editor with a patch-based UI, like Quartz composer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-11-23T09:45:00Z",
+            "owner": "tai2",
+            "repo": "webaudiocomposer",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Node editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "preziotte/party-mode",
+          "description": "a d3 based visualizer with lots of options",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-17T14:01:14Z",
+            "owner": "preziotte",
+            "repo": "party-mode",
+            "stars": 801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kelvinau/circular-audio-wave",
+          "description": "circular audio waves powered by E-charts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-18T11:34:02Z",
+            "owner": "kelvinau",
+            "repo": "circular-audio-wave",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "margox/vudio.js",
+          "description": "very nice bouncing bars, can place or align at top, bottom, left, right or center",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-06T10:30:19Z",
+            "owner": "margox",
+            "repo": "vudio.js",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "Audio visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "paulrosen/abcjs",
+          "description": "for rendering music notation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-09T19:25:32Z",
+            "owner": "paulrosen",
+            "repo": "abcjs",
+            "stars": 2323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nexus-js/ui",
+          "description": "very nice UI toolkit for web based MIDI instrument UI components (used by nofft, above)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-03T15:53:19Z",
+            "owner": "nexus-js",
+            "repo": "ui",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g200kg/webaudio-controls",
+          "description": "web components aimed at VST instruments, DAWs, etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-04T14:04:24Z",
+            "owner": "g200kg",
+            "repo": "webaudio-controls",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISNIT0/webaudio-generator",
+          "description": "a UI for generating Web Audio API code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-08T10:37:23Z",
+            "owner": "ISNIT0",
+            "repo": "webaudio-generator",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g200kg/input-knobs",
+          "description": "turns tags into sliders, knobs, etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-10-31T05:57:43Z",
+            "owner": "g200kg",
+            "repo": "input-knobs",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "williamfields/nofft.js",
+          "description": "Javascript library for creating MIDI-responsive visuals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-04T12:39:22Z",
+            "owner": "williamfields",
+            "repo": "nofft.js",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Other UI"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:05.815Z",
+    "original_repository": "sc0ttj/awesome-javascript-audio",
+    "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
+    "enhanced_repository": "enhansome/enhansome-javascript-audio",
+    "enhanced_repository_description": null,
+    "title": "Awesome JavaScript Audio with stars"
+  }
+}
