@@ -384,7 +384,7 @@
             "last_commit": "2026-08-07T12:36:37Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14715
+            "stars": 14701
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2023-06-01T07:02:36Z",
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 537
+            "stars": 538
           }
         },
         {
@@ -1072,7 +1072,7 @@
             "last_commit": "2026-08-15T22:53:19Z",
             "owner": "spessasus",
             "repo": "SpessaSynth",
-            "stars": 388
+            "stars": 389
           }
         },
         {
@@ -1468,7 +1468,7 @@
             "last_commit": "2026-08-16T13:53:53Z",
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3094
+            "stars": 3096
           }
         },
         {
@@ -1482,7 +1482,7 @@
             "last_commit": "2026-07-28T19:09:42Z",
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1849
+            "stars": 1850
           }
         },
         {
@@ -1597,7 +1597,7 @@
             "last_commit": "2026-08-10T05:53:53Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10373
+            "stars": 10376
           }
         },
         {
@@ -1903,7 +1903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:01:50.661Z",
+    "last_updated": "2026-08-17T14:12:21.716Z",
     "original_repository": "sc0ttj/awesome-javascript-audio",
     "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
     "enhanced_repository": "enhansome/enhansome-javascript-audio",
