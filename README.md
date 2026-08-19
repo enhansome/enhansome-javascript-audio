@@ -52,7 +52,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 
 ## Libraries: Web Audio API
 
-* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,333 | 🐛 415 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
+* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,332 | 🐛 415 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
 * [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - micro library to load, generate and play sounds
 * [webaudio-peaks](https://github.com/naomiaro/webaudio-peaks) ⭐ 58 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - small library to get peaks from audio
 * [scriptify/sountility](https://github.com/scriptify/sountility) ⭐ 50 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-03 - includes many small packages for adding, mixing, toggling effects on AudioNodes
@@ -233,7 +233,7 @@ Frontends and UIs to load & your play your sounds.
 
 Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, bass-lines, loops and so on.
 
-* [SpessaSynth](https://github.com/spessasus/SpessaSynth) ⭐ 388 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-18 - MIDI player with tracker, loads of settings
+* [SpessaSynth](https://github.com/spessasus/SpessaSynth) ⭐ 389 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - MIDI player with tracker, loads of settings
 * [efflux-tracker](https://github.com/igorski/efflux-tracker) ⭐ 260 | 🐛 12 | 🌐 TypeScript | 📅 2026-06-28 - browser based music tracker ([here](https://www.igorski.nl/application/efflux/)) driving a modular synth environment with MIDI support
 * [tinysynth](https://github.com/n1k0/tinysynth) ⚠️ Archived - a nice little sequencer, easy to use, nice UI, generate random tracks
 * [hatsumatsu/108](https://github.com/hatsumatsu/108) ⭐ 213 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - a slick, minimalist circular beat sequencer
@@ -320,14 +320,14 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ### Audio visualization
 
-* [preziotte/party-mode](https://github.com/preziotte/party-mode) ⭐ 802 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-15 - a d3 based visualizer with lots of options
+* [preziotte/party-mode](https://github.com/preziotte/party-mode) ⭐ 803 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-15 - a d3 based visualizer with lots of options
 * [kelvinau/circular-audio-wave](https://github.com/kelvinau/circular-audio-wave) ⭐ 280 | 🐛 14 | 🌐 JavaScript | 📅 2024-05-18 - circular audio waves powered by E-charts
 * [margox/vudio.js](https://github.com/margox/vudio.js) ⭐ 255 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-06 - very nice bouncing bars, can place or align at top, bottom, left, right or center
 * [pts.js](https://ptsjs.org/) - a powerful creative coding and visualization library
 
 ### Other UI
 
-* [paulrosen/abcjs](https://github.com/paulrosen/abcjs) ⭐ 2,324 | 🐛 242 | 🌐 HTML | 📅 2026-08-09 - for rendering music notation
+* [paulrosen/abcjs](https://github.com/paulrosen/abcjs) ⭐ 2,324 | 🐛 243 | 🌐 HTML | 📅 2026-08-09 - for rendering music notation
 * [nexus-js/ui](https://github.com/nexus-js/ui) ⭐ 874 | 🐛 45 | 🌐 JavaScript | 📅 2025-07-03 - very nice UI toolkit for web based MIDI instrument [UI components](https://nexus-js.github.io/ui/) (used by nofft, above)
 * [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls) ⭐ 370 | 🐛 20 | 🌐 JavaScript | 📅 2025-10-04 - web components aimed at VST instruments, DAWs, etc
 * [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) ⭐ 62 | 🐛 8 | 🌐 TypeScript | 📅 2022-12-08 - a UI for generating Web Audio API code
@@ -336,4 +336,4 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
