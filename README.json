@@ -659,7 +659,7 @@
             "archived": false,
             "id": 17618901,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T12:36:37Z",
+            "last_commit": "2026-08-21T18:39:13Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
             "stars": 14705
@@ -1400,7 +1400,7 @@
                 "last_commit": "2026-08-18T21:15:35Z",
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 390
+                "stars": 391
               }
             },
             {
@@ -1412,7 +1412,7 @@
                 "archived": false,
                 "id": 55540129,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:28:39Z",
+                "last_commit": "2026-08-22T12:08:27Z",
                 "owner": "igorski",
                 "repo": "efflux-tracker",
                 "stars": 260
@@ -1827,10 +1827,10 @@
             "archived": false,
             "id": 196362588,
             "language": "C++",
-            "last_commit": "2026-08-18T13:47:47Z",
+            "last_commit": "2026-08-21T22:53:20Z",
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3098
+            "stars": 3099
           }
         },
         {
@@ -1845,7 +1845,7 @@
             "last_commit": "2026-07-28T19:09:42Z",
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1853
+            "stars": 1854
           }
         },
         {
@@ -1965,7 +1965,7 @@
                 "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10381
+                "stars": 10383
               }
             },
             {
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:20:09.610Z",
+    "last_updated": "2026-08-22T14:00:55.696Z",
     "original_repository": "sc0ttj/awesome-javascript-audio",
     "original_repository_id": 260557326,
     "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
