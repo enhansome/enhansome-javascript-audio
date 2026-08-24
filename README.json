@@ -4,6 +4,34 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Let's learn about waveforms",
+              "description": "really nice interactives to teach waveforms by Pudding.cool source code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111330723,
+                "language": "JavaScript",
+                "last_commit": "2018-02-21T12:53:41Z",
+                "owner": "joshwcomeau",
+                "repo": "waveforms",
+                "stars": 1481
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music theory"
+        }
+      ],
+      "title": "Articles and videos"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "howler.js",
           "description": "cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio",
@@ -15,7 +43,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25336
+            "stars": 25335
           }
         },
         {
@@ -662,7 +690,7 @@
             "last_commit": "2026-08-21T18:39:13Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14705
+            "stars": 14707
           }
         },
         {
@@ -926,6 +954,28 @@
           "description": "These produce sounds which oscillate between two values on a low frequency, following a given waveform. LFOs are usually used to create effects like pitch wobble, tremelo, and wah-wah-wah stuff. These effect are then applied to notes, synths or instruments.",
           "node_type": "group",
           "title": "Low frequency oscillators (\"LFOs\"):"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sebpiq/WebPd",
+              "description": "use your Pure Data patches in Javascript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3133062,
+                "language": "TypeScript",
+                "last_commit": "2026-07-02T19:48:38Z",
+                "owner": "sebpiq",
+                "repo": "WebPd",
+                "stars": 999
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pure Data (PD) patches"
         }
       ],
       "title": "Sound creation"
@@ -999,6 +1049,28 @@
           "description": null,
           "node_type": "group",
           "title": "Sound effects/processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "waveform-playlist",
+              "description": "very nice multi-track WAV editor, similar to Audacity :)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8150190,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T19:34:35Z",
+                "owner": "naomiaro",
+                "repo": "waveform-playlist",
+                "stars": 1670
+              }
+            }
+          ],
+          "description": "Samplers make it easy to import, chop up, and extract parts of an audio file (usually WAV or MP3).",
+          "node_type": "group",
+          "title": "Sound samplers:"
         },
         {
           "children": [
@@ -1088,6 +1160,28 @@
           "description": null,
           "node_type": "group",
           "title": "Sound equalizers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cwilso/vocoder",
+              "description": "a 28-band vocoder - a \"robotic voice\" processor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3912988,
+                "language": "JavaScript",
+                "last_commit": "2022-09-21T21:30:45Z",
+                "owner": "cwilso",
+                "repo": "Vocoder",
+                "stars": 364
+              }
+            }
+          ],
+          "description": "For Editing and adding effects to vocals.",
+          "node_type": "group",
+          "title": "Vocoders"
         }
       ],
       "title": "Sound editing"
@@ -1273,7 +1367,7 @@
                 "last_commit": "2022-12-23T16:51:40Z",
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6037
+                "stars": 6038
               }
             },
             {
@@ -1830,7 +1924,7 @@
             "last_commit": "2026-08-21T22:53:20Z",
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3099
+            "stars": 3100
           }
         },
         {
@@ -1845,7 +1939,7 @@
             "last_commit": "2026-07-28T19:09:42Z",
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1854
+            "stars": 1855
           }
         },
         {
@@ -1965,7 +2059,7 @@
                 "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10384
+                "stars": 10382
               }
             },
             {
@@ -2299,7 +2393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:02:40.321Z",
+    "last_updated": "2026-08-24T14:48:55.131Z",
     "original_repository": "sc0ttj/awesome-javascript-audio",
     "original_repository_id": 260557326,
     "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
