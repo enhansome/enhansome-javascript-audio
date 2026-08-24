@@ -750,7 +750,7 @@
             "last_commit": "2023-06-01T07:02:36Z",
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 540
+            "stars": 541
           }
         },
         {
@@ -2393,7 +2393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:55.131Z",
+    "last_updated": "2026-08-24T15:07:19.951Z",
     "original_repository": "sc0ttj/awesome-javascript-audio",
     "original_repository_id": 260557326,
     "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
