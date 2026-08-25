@@ -43,7 +43,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25335
+            "stars": 25336
           }
         },
         {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-03-26T22:58:45Z",
                 "owner": "surikov",
                 "repo": "webaudiofont",
-                "stars": 985
+                "stars": 986
               }
             },
             {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-21T18:39:13Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14708
+            "stars": 14709
           }
         },
         {
@@ -2074,7 +2074,7 @@
                 "last_commit": "2025-11-08T03:09:27Z",
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3403
+                "stars": 3404
               }
             },
             {
@@ -2393,7 +2393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:58.847Z",
+    "last_updated": "2026-08-25T14:29:09.616Z",
     "original_repository": "sc0ttj/awesome-javascript-audio",
     "original_repository_id": 260557326,
     "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
