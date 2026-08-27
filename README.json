@@ -43,7 +43,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25338
+            "stars": 25337
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-21T18:39:13Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14711
+            "stars": 14714
           }
         },
         {
@@ -969,7 +969,7 @@
                 "last_commit": "2026-07-02T19:48:38Z",
                 "owner": "sebpiq",
                 "repo": "WebPd",
-                "stars": 999
+                "stars": 1000
               }
             }
           ],
@@ -2059,7 +2059,7 @@
                 "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10384
+                "stars": 10385
               }
             },
             {
@@ -2320,7 +2320,7 @@
                 "last_commit": "2025-07-03T15:53:19Z",
                 "owner": "nexus-js",
                 "repo": "ui",
-                "stars": 874
+                "stars": 875
               }
             },
             {
@@ -2393,7 +2393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:45.114Z",
+    "last_updated": "2026-08-27T23:14:02.979Z",
     "original_repository_info": {
       "archived": false,
       "id": 260557326,
