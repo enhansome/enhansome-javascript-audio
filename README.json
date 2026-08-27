@@ -17,7 +17,7 @@
                 "last_commit": "2018-02-21T12:53:41Z",
                 "owner": "joshwcomeau",
                 "repo": "waveforms",
-                "stars": 1481
+                "stars": 1480
               }
             }
           ],
@@ -43,7 +43,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25336
+            "stars": 25338
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-08-13T22:15:00Z",
             "owner": "djipco",
             "repo": "webmidi",
-            "stars": 1710
+            "stars": 1711
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2026-04-28T04:58:37Z",
             "owner": "scribbletune",
             "repo": "johann",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-03-26T22:58:45Z",
                 "owner": "surikov",
                 "repo": "webaudiofont",
-                "stars": 986
+                "stars": 987
               }
             },
             {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-21T18:39:13Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14710
+            "stars": 14711
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-04-28T04:58:37Z",
             "owner": "scribbletune",
             "repo": "johann",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -1012,7 +1012,7 @@
                 "last_commit": "2026-04-06T21:23:08Z",
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1827
+                "stars": 1830
               }
             },
             {
@@ -1218,7 +1218,7 @@
                 "last_commit": "2022-04-07T15:13:08Z",
                 "owner": "completejavascript",
                 "repo": "drum-machine",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -1651,7 +1651,7 @@
                 "last_commit": "2015-08-19T02:05:44Z",
                 "owner": "stevengoldberg",
                 "repo": "juno106",
-                "stars": 529
+                "stars": 530
               }
             },
             {
@@ -1924,7 +1924,7 @@
             "last_commit": "2026-08-21T22:53:20Z",
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3102
+            "stars": 3105
           }
         },
         {
@@ -2074,7 +2074,7 @@
                 "last_commit": "2025-11-08T03:09:27Z",
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3405
+                "stars": 3404
               }
             },
             {
@@ -2393,9 +2393,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:28:47.739Z",
-    "original_repository": "sc0ttj/awesome-javascript-audio",
-    "original_repository_id": 260557326,
+    "last_updated": "2026-08-27T11:44:45.114Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 260557326,
+      "language": null,
+      "last_commit": "2025-09-04T11:04:16Z",
+      "owner": "sc0ttj",
+      "repo": "awesome-javascript-audio",
+      "stars": 50
+    },
     "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
     "enhanced_repository": "enhansome/enhansome-javascript-audio",
     "enhanced_repository_description": null,
