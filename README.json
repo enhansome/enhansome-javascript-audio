@@ -18,7 +18,8 @@
                 "owner": "joshwcomeau",
                 "repo": "waveforms",
                 "stars": 1480
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -43,8 +44,9 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25337
-          }
+            "stars": 25338
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -59,7 +61,8 @@
             "owner": "kittykatattack",
             "repo": "sound.js",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "naomiaro",
             "repo": "webaudio-peaks",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "scriptify",
             "repo": "sountility",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "notthetup",
             "repo": "smoothfade",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         }
       ],
       "title": "Libraries: Web Audio API"
@@ -125,7 +131,8 @@
             "owner": "cwilso",
             "repo": "WebMIDIAPIShim",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -140,7 +147,8 @@
             "owner": "jazz-soft",
             "repo": "WebMIDIAPIShim",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -160,7 +168,8 @@
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
                 "stars": 780
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "repo_info": {
@@ -170,8 +179,9 @@
             "last_commit": "2024-06-16T06:45:24Z",
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3926
-          }
+            "stars": 3925
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -186,7 +196,8 @@
             "owner": "grimmdude",
             "repo": "MidiWriterJS",
             "stars": 604
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -201,7 +212,8 @@
             "owner": "jazz-soft",
             "repo": "JZZ",
             "stars": 594
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -216,7 +228,8 @@
             "owner": "grimmdude",
             "repo": "MidiPlayerJS",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -231,7 +244,8 @@
             "owner": "colxi",
             "repo": "midi-parser-js",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -246,7 +260,8 @@
             "owner": "dingram",
             "repo": "jsmidgen",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -261,7 +276,8 @@
             "owner": "dinchak",
             "repo": "node-easymidi",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -276,7 +292,8 @@
             "owner": "jazz-soft",
             "repo": "web-midi",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -291,7 +308,8 @@
             "owner": "jazz-soft",
             "repo": "jazz-midi-electron",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -306,7 +324,8 @@
             "owner": "igorski",
             "repo": "zMIDI",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -321,7 +340,8 @@
             "owner": "hoch",
             "repo": "spiral",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -336,7 +356,8 @@
             "owner": "djipco",
             "repo": "webmidi",
             "stars": 1711
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -351,7 +372,8 @@
             "owner": "nuc",
             "repo": "Midi-Connector",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -366,7 +388,8 @@
             "owner": "jazz-soft",
             "repo": "JZZ-midi-Gear",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -381,7 +404,8 @@
             "owner": "andrejhronco",
             "repo": "midi-ports",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -396,7 +420,8 @@
             "owner": "tuomashatakka",
             "repo": "tween-midi-editor",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         }
       ],
       "title": "Libraries: Web MIDI API"
@@ -417,7 +442,8 @@
             "owner": "scribbletune",
             "repo": "johann",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -432,7 +458,8 @@
             "owner": "bobbyrne01",
             "repo": "play-along",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -447,7 +474,8 @@
             "owner": "danielgamage",
             "repo": "keystack",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -462,7 +490,8 @@
             "owner": "flosSoftware",
             "repo": "harmonizer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         }
       ],
       "title": "Music theory"
@@ -485,7 +514,8 @@
                 "owner": "surikov",
                 "repo": "webaudiofont",
                 "stars": 987
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -500,7 +530,8 @@
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
                 "stars": 780
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -515,7 +546,8 @@
                 "owner": "danigb",
                 "repo": "soundfont-player",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -530,7 +562,8 @@
                 "owner": "colinbdclark",
                 "repo": "sf2-parser",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -545,7 +578,8 @@
                 "owner": "PatrickWolleb",
                 "repo": "SoundFontJS",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -560,7 +594,8 @@
                 "owner": "skratchdot",
                 "repo": "soundfont2mp3",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -575,7 +610,8 @@
                 "owner": "mk-pmb",
                 "repo": "midijssf-from-sf2-pmb",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -590,7 +626,8 @@
                 "owner": "letoribo",
                 "repo": "percussion-soundfonts",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -605,7 +642,8 @@
                 "owner": "skratchdot",
                 "repo": "timbre.soundfont.js",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -620,7 +658,8 @@
                 "owner": "ryanwhite04",
                 "repo": "soundfonts",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -635,7 +674,8 @@
                 "owner": "montyanderson",
                 "repo": "soundfont-parser",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -650,7 +690,8 @@
                 "owner": "danigb",
                 "repo": "sampler.js",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -665,7 +706,8 @@
                 "owner": "ok-steve",
                 "repo": "soundfont",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "Instruments and sounds you can attach to MIDI notes (using the Web MIDI API):",
@@ -691,7 +733,8 @@
             "owner": "Tonejs",
             "repo": "Tone.js",
             "stars": 14714
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -706,7 +749,8 @@
             "owner": "saebekassebil",
             "repo": "teoria",
             "stars": 1376
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -721,7 +765,8 @@
             "owner": "stewdio",
             "repo": "beep.js",
             "stars": 1369
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -736,7 +781,8 @@
             "owner": "mohayonao",
             "repo": "timbre.js",
             "stars": 968
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -751,7 +797,8 @@
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
             "stars": 541
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -766,7 +813,8 @@
             "owner": "stevekinney",
             "repo": "octavian",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -781,7 +829,8 @@
             "owner": "escottalexander",
             "repo": "simpleTones.js",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -796,7 +845,8 @@
             "owner": "scribbletune",
             "repo": "johann",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -811,7 +861,8 @@
             "owner": "danigb",
             "repo": "note-parser",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -826,7 +877,8 @@
             "owner": "btwael",
             "repo": "zazate.js",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -841,7 +893,8 @@
             "owner": "1j01",
             "repo": "midiflip",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -856,7 +909,8 @@
             "owner": "colinbdclark",
             "repo": "Flocking",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "children": [
@@ -873,7 +927,8 @@
                 "owner": "scijs",
                 "repo": "periodic-function",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -888,7 +943,8 @@
                 "owner": "mohayonao",
                 "repo": "wave-tables",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -903,7 +959,8 @@
                 "owner": "audiojs",
                 "repo": "audio-oscillator",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -918,7 +975,8 @@
                 "owner": "TheTeapot418",
                 "repo": "LFO.js",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -933,7 +991,8 @@
                 "owner": "diversen",
                 "repo": "wave-table-oscillators",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -948,7 +1007,8 @@
                 "owner": "2xAA",
                 "repo": "LFO.js",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "These produce sounds which oscillate between two values on a low frequency, following a given waveform. LFOs are usually used to create effects like pitch wobble, tremelo, and wah-wah-wah stuff. These effect are then applied to notes, synths or instruments.",
@@ -970,7 +1030,8 @@
                 "owner": "sebpiq",
                 "repo": "WebPd",
                 "stars": 1000
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -998,7 +1059,8 @@
                 "owner": "rserota",
                 "repo": "wad",
                 "stars": 1981
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1075,8 @@
                 "owner": "Theodeus",
                 "repo": "tuna",
                 "stars": 1830
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1028,7 +1091,8 @@
                 "owner": "alemangui",
                 "repo": "pizzicato",
                 "stars": 1712
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1107,8 @@
                 "owner": "scriptify",
                 "repo": "Chnl",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -1064,8 +1129,9 @@
                 "last_commit": "2026-08-17T19:34:35Z",
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1671
-              }
+                "stars": 1672
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "Samplers make it easy to import, chop up, and extract parts of an audio file (usually WAV or MP3).",
@@ -1087,7 +1153,8 @@
                 "owner": "mohayonao",
                 "repo": "adsr-envelope",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1102,7 +1169,8 @@
                 "owner": "itsjoesullivan",
                 "repo": "envelope-generator",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1117,7 +1185,8 @@
                 "owner": "mmckegg",
                 "repo": "adsr",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "Modify a sound with more/less attack, delay, sustain, release, etc.",
@@ -1139,7 +1208,8 @@
                 "owner": "carlosrafaelgn",
                 "repo": "GraphicalFilterEditor",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1154,7 +1224,8 @@
                 "owner": "DIDAVA",
                 "repo": "eAudio",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -1176,7 +1247,8 @@
                 "owner": "cwilso",
                 "repo": "Vocoder",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "For Editing and adding effects to vocals.",
@@ -1204,7 +1276,8 @@
                 "owner": "cwilso",
                 "repo": "MIDIDrums",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1219,7 +1292,8 @@
                 "owner": "completejavascript",
                 "repo": "drum-machine",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1234,7 +1308,8 @@
                 "owner": "dburles",
                 "repo": "ssu16",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1249,7 +1324,8 @@
                 "owner": "dusanpopov",
                 "repo": "Drum-machine",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1264,7 +1340,8 @@
                 "owner": "wtznc",
                 "repo": "Introduction-to-Programming-Term-1-Project",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1279,7 +1356,8 @@
                 "owner": "webmaeistro",
                 "repo": "drum-machine",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1294,7 +1372,8 @@
                 "owner": "khayati-asrani",
                 "repo": "electric-drums-pwa",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -1316,7 +1395,8 @@
                 "owner": "vitaliy-bobrov",
                 "repo": "js-rocks",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1331,7 +1411,8 @@
                 "owner": "1j01",
                 "repo": "guitar",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1427,8 @@
                 "owner": "ronkot",
                 "repo": "ks-guitar",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -1368,7 +1450,8 @@
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
                 "stars": 6038
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1383,7 +1466,8 @@
                 "owner": "Wscats",
                 "repo": "piano",
                 "stars": 1171
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1398,7 +1482,8 @@
                 "owner": "stuartmemo",
                 "repo": "qwerty-hancock",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1413,7 +1498,8 @@
                 "owner": "Pomax",
                 "repo": "midi-with-node",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1428,7 +1514,8 @@
                 "owner": "iBundin",
                 "repo": "Open-Web-Piano",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1443,7 +1530,8 @@
                 "owner": "1j01",
                 "repo": "tri-chromatic-keyboard",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1458,7 +1546,8 @@
                 "owner": "TomerAberbach",
                 "repo": "piano",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1473,7 +1562,8 @@
                 "owner": "Pomax",
                 "repo": "noodle-doodle",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -1495,7 +1585,8 @@
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1506,11 +1597,12 @@
                 "archived": false,
                 "id": 55540129,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:34:51Z",
+                "last_commit": "2026-08-28T19:43:16Z",
                 "owner": "igorski",
                 "repo": "efflux-tracker",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1525,7 +1617,8 @@
                 "owner": "n1k0",
                 "repo": "tinysynth",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1540,7 +1633,8 @@
                 "owner": "hatsumatsu",
                 "repo": "108",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1555,7 +1649,8 @@
                 "owner": "stufreen",
                 "repo": "web-drum-sequencer",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1570,7 +1665,8 @@
                 "owner": "nicolas-van",
                 "repo": "sonant-x-live",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1585,7 +1681,8 @@
                 "owner": "juniorheptachords",
                 "repo": "da-beat-sequencer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1600,7 +1697,8 @@
                 "owner": "andrefcasimiro",
                 "repo": "midikrew",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1615,7 +1713,8 @@
                 "owner": "bweave",
                 "repo": "drum-sequencer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1630,7 +1729,8 @@
                 "owner": "gerhynes",
                 "repo": "drum-machine",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, bass-lines, loops and so on.",
@@ -1652,7 +1752,8 @@
                 "owner": "stevengoldberg",
                 "repo": "juno106",
                 "stars": 530
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1667,7 +1768,8 @@
                 "owner": "hundredrabbits",
                 "repo": "Marabu",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1682,7 +1784,8 @@
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1697,7 +1800,8 @@
                 "owner": "nicolas-van",
                 "repo": "sonant-x",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1816,8 @@
                 "owner": "errozero",
                 "repo": "poly-synth",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1727,7 +1832,8 @@
                 "owner": "francoisgeorgy",
                 "repo": "BS2-Web",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1742,7 +1848,8 @@
                 "owner": "jstrait",
                 "repo": "jssynth",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1757,7 +1864,8 @@
                 "owner": "logue",
                 "repo": "sf2synth.js",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1772,7 +1880,8 @@
                 "owner": "okaybenji",
                 "repo": "subpoly",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1787,7 +1896,8 @@
                 "owner": "okaybenji",
                 "repo": "submono",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1802,7 +1912,8 @@
                 "owner": "ronkot",
                 "repo": "ks-guitar-synth",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1928,8 @@
                 "owner": "diversen",
                 "repo": "pluggable-synth",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1832,7 +1944,8 @@
                 "owner": "Tinusw",
                 "repo": "webAudioSynth",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1847,7 +1960,8 @@
                 "owner": "kevin-chau",
                 "repo": "minimoog.js",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1862,7 +1976,8 @@
                 "owner": "ZulfadhliM",
                 "repo": "web-synth",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "Generate and edit your own sounds, voices and sound effects.",
@@ -1884,7 +1999,8 @@
                 "owner": "surikov",
                 "repo": "midi-sounds-react",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -1899,7 +2015,8 @@
                 "owner": "dtinth",
                 "repo": "WebMIDICon",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "These are more complete - they have multiple instruments.",
@@ -1924,8 +2041,9 @@
             "last_commit": "2026-08-21T22:53:20Z",
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3105
-          }
+            "stars": 3107
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -1939,8 +2057,9 @@
             "last_commit": "2026-07-28T19:09:42Z",
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1856
-          }
+            "stars": 1857
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -1955,7 +2074,8 @@
             "owner": "kevin-chau",
             "repo": "TReactr",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         },
         {
           "node_type": "item",
@@ -1970,7 +2090,8 @@
             "owner": "dotgreg",
             "repo": "XinDaw",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:13:32.671Z"
         }
       ],
       "title": "Complete DAWs"
@@ -1993,7 +2114,8 @@
                 "owner": "bbc",
                 "repo": "r-audio",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2008,7 +2130,8 @@
                 "owner": "kevin-chau",
                 "repo": "TReactr",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2023,7 +2146,8 @@
                 "owner": "noahlemen",
                 "repo": "mdlr",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2038,7 +2162,8 @@
                 "owner": "mmmerl",
                 "repo": "react-midi-device-provider",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -2059,8 +2184,9 @@
                 "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10385
-              }
+                "stars": 10389
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2074,8 +2200,9 @@
                 "last_commit": "2025-11-08T03:09:27Z",
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3404
-              }
+                "stars": 3405
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2090,7 +2217,8 @@
                 "owner": "zhw2590582",
                 "repo": "WFPlayer",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2105,7 +2233,8 @@
                 "owner": "mathiasvr",
                 "repo": "audio-oscilloscope",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2120,7 +2249,8 @@
                 "owner": "michaeldzjap",
                 "repo": "waveplayer",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2135,7 +2265,8 @@
                 "owner": "chrisweb",
                 "repo": "waveform-visualizer",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2150,7 +2281,8 @@
                 "owner": "invokemedia",
                 "repo": "audio-to-svg-waveform",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2165,7 +2297,8 @@
                 "owner": "patidar-suresh",
                 "repo": "audio-waveform",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -2187,7 +2320,8 @@
                 "owner": "cwilso",
                 "repo": "WebAudio",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2202,7 +2336,8 @@
                 "owner": "g200kg",
                 "repo": "WebAudioDesigner",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2217,7 +2352,8 @@
                 "owner": "forresto",
                 "repo": "dataflow-webaudio",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2232,7 +2368,8 @@
                 "owner": "tai2",
                 "repo": "webaudiocomposer",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": "Also known as \"graph editors\".\nLink your sounds, effects, inputs & outputs together with a drag and drop interface:",
@@ -2254,7 +2391,8 @@
                 "owner": "preziotte",
                 "repo": "party-mode",
                 "stars": 803
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2269,7 +2407,8 @@
                 "owner": "kelvinau",
                 "repo": "circular-audio-wave",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2284,7 +2423,8 @@
                 "owner": "margox",
                 "repo": "vudio.js",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -2306,7 +2446,8 @@
                 "owner": "paulrosen",
                 "repo": "abcjs",
                 "stars": 2328
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2321,7 +2462,8 @@
                 "owner": "nexus-js",
                 "repo": "ui",
                 "stars": 875
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2335,8 +2477,9 @@
                 "last_commit": "2025-10-04T14:04:24Z",
                 "owner": "g200kg",
                 "repo": "webaudio-controls",
-                "stars": 370
-              }
+                "stars": 371
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2351,7 +2494,8 @@
                 "owner": "ISNIT0",
                 "repo": "webaudio-generator",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2366,7 +2510,8 @@
                 "owner": "g200kg",
                 "repo": "input-knobs",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             },
             {
               "node_type": "item",
@@ -2381,7 +2526,8 @@
                 "owner": "williamfields",
                 "repo": "nofft.js",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
           "description": null,
@@ -2393,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:02.979Z",
+    "last_updated": "2026-08-28T23:13:32.671Z",
     "original_repository_info": {
       "archived": false,
       "id": 260557326,
