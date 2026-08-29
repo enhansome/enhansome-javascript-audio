@@ -242,7 +242,7 @@
                 "open_issues": 7,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 780,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -847,7 +847,7 @@
                 "open_issues": 7,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 780,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 59,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14714,
+            "stars": 14715,
             "topics": [
               "javascript",
               "music",
@@ -1711,7 +1711,7 @@
                 "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1672,
+                "stars": 1673,
                 "topics": [
                   "annotations",
                   "audio",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "audio",
               "computer-music",
@@ -3924,7 +3924,7 @@
                 "open_issues": 244,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2328,
+                "stars": 2329,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:06:34.512Z",
+    "last_updated": "2026-08-29T17:24:21.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
