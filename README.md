@@ -6,7 +6,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 
 ### Music theory
 
-* [Let's learn about waveforms](https://pudding.cool/2018/02/waveforms/) - really nice interactives to teach waveforms by Pudding.cool [source code](https://github.com/joshwcomeau/waveforms) ⭐ 1,480 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-21
+* [Let's learn about waveforms](https://pudding.cool/2018/02/waveforms/) - really nice interactives to teach waveforms by Pudding.cool [source code](https://github.com/joshwcomeau/waveforms) ⭐ 1,479 | 🐛 4 | 🌐 JavaScript | 📅 2018-02-21
 * [The Physics of Music](https://pages.mtu.edu/~suits/Physicsofmusic.html) by Michigen Tech
 * [JS Dynamic Audio Synth Tutorial](https://keithwhor.com/music/) - make a [synth piano keyboard](https://mrcoles.com/piano/) from scratch, covers lots of theory
 * [Principles of Sound Synthesis](http://www.acoustics.salford.ac.uk/acoustics_info/sound_synthesis/) - or, why synths can't do guitars
@@ -298,7 +298,7 @@ A "DAW" is a digital audio workstation - an all-round music production app
 
 ### Visual waveform generators
 
-* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,389 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - generate navigable waveforms
+* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,390 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - generate navigable waveforms
 * [bbc/peaks.js](https://github.com/bbc/peaks.js) ⭐ 3,405 | 🐛 64 | 🌐 JavaScript | 📅 2025-11-08 - UI component for interacting with waveforms
 * [WFPlayer](https://github.com/zhw2590582/WFPlayer) ⚠️ Archived - an audio waveform generator, nice features
 * [audio-oscilloscope](https://github.com/mathiasvr/audio-oscilloscope) ⭐ 96 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-06 - waveform vizualiser for HTML5 Canvas
@@ -336,4 +336,4 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
