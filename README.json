@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25338,
+            "stars": 25337,
             "topics": [
               "audio",
               "audio-library",
@@ -1600,7 +1600,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1981,
+                "stars": 1982,
                 "topics": [
                   "audio",
                   "daw",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3108,
+            "stars": 3110,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1857,
+            "stars": 1858,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10390,
+                "stars": 10391,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3527,7 +3527,7 @@
                 "open_issues": 64,
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3405,
+                "stars": 3406,
                 "topics": [
                   "audio",
                   "javascript"
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:24:21.208Z",
+    "last_updated": "2026-08-30T17:47:16.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
