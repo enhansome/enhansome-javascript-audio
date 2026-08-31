@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25337,
+            "stars": 25338,
             "topics": [
               "audio",
               "audio-library",
@@ -543,7 +543,7 @@
             "open_issues": 7,
             "owner": "djipco",
             "repo": "webmidi",
-            "stars": 1711,
+            "stars": 1712,
             "topics": [
               "browser",
               "jazz-plugin",
@@ -1112,10 +1112,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-21T18:39:13Z",
-            "open_issues": 59,
+            "open_issues": 61,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14715,
+            "stars": 14716,
             "topics": [
               "javascript",
               "music",
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 541,
+            "stars": 542,
             "topics": [
               "audio",
               "instruments",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1858,
+            "stars": 1859,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10391,
+                "stars": 10392,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3796,7 +3796,7 @@
                 "open_issues": 0,
                 "owner": "tai2",
                 "repo": "webaudiocomposer",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:47:16.307Z",
+    "last_updated": "2026-08-31T19:42:26.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
@@ -4077,7 +4077,7 @@
       "open_issues": 4,
       "owner": "sc0ttj",
       "repo": "awesome-javascript-audio",
-      "stars": 50,
+      "stars": 51,
       "topics": [
         "audio",
         "awesome-list",
