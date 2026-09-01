@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25338,
+            "stars": 25337,
             "topics": [
               "audio",
               "audio-library",
@@ -806,7 +806,7 @@
                 "open_issues": 3,
                 "owner": "surikov",
                 "repo": "webaudiofont",
-                "stars": 987,
+                "stars": 988,
                 "topics": [
                   "audio",
                   "audiocontext",
@@ -1115,7 +1115,7 @@
             "open_issues": 61,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14716,
+            "stars": 14717,
             "topics": [
               "javascript",
               "music",
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "audio",
               "instruments",
@@ -1711,7 +1711,7 @@
                 "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1673,
+                "stars": 1675,
                 "topics": [
                   "annotations",
                   "audio",
@@ -2465,7 +2465,7 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T20:21:08Z",
+                "last_commit": "2026-09-01T07:26:03Z",
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
@@ -2825,7 +2825,7 @@
                 "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -3249,7 +3249,7 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-21T22:53:20Z",
+            "last_commit": "2026-09-01T14:43:15Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
@@ -3499,7 +3499,7 @@
                 "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10392,
+                "stars": 10393,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3824,7 +3824,7 @@
                 "open_issues": 5,
                 "owner": "preziotte",
                 "repo": "party-mode",
-                "stars": 803,
+                "stars": 802,
                 "topics": [
                   "art",
                   "audio",
@@ -3924,7 +3924,7 @@
                 "open_issues": 244,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2329,
+                "stars": 2330,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:42:26.262Z",
+    "last_updated": "2026-09-01T17:27:56.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
