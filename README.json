@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25337,
+            "stars": 25338,
             "topics": [
               "audio",
               "audio-library",
@@ -539,8 +539,8 @@
             "id": 44274144,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-13T22:15:00Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-02T03:42:07Z",
+            "open_issues": 9,
             "owner": "djipco",
             "repo": "webmidi",
             "stars": 1712,
@@ -1115,7 +1115,7 @@
             "open_issues": 61,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14717,
+            "stars": 14718,
             "topics": [
               "javascript",
               "music",
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "audio",
               "instruments",
@@ -1600,7 +1600,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": [
                   "audio",
                   "daw",
@@ -1982,7 +1982,7 @@
                 "open_issues": 1,
                 "owner": "dburles",
                 "repo": "ssu16",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "audio",
                   "audio-applications",
@@ -2507,8 +2507,8 @@
                 "id": 55540129,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:43:16Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-02T01:08:49Z",
+                "open_issues": 10,
                 "owner": "igorski",
                 "repo": "efflux-tracker",
                 "stars": 260,
@@ -2799,7 +2799,7 @@
                 "open_issues": 6,
                 "owner": "hundredrabbits",
                 "repo": "Marabu",
-                "stars": 489,
+                "stars": 490,
                 "topics": [
                   "chiptune",
                   "music",
@@ -3249,7 +3249,7 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T14:43:15Z",
+            "last_commit": "2026-09-02T13:37:34Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
@@ -3495,7 +3495,7 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-21T11:58:21Z",
+                "last_commit": "2026-09-02T11:45:52Z",
                 "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
@@ -3924,7 +3924,7 @@
                 "open_issues": 244,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2330,
+                "stars": 2331,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:27:56.998Z",
+    "last_updated": "2026-09-02T17:24:48.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
