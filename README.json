@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25338,
+            "stars": 25339,
             "topics": [
               "audio",
               "audio-library",
@@ -242,7 +242,7 @@
                 "open_issues": 7,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 782,
+                "stars": 783,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -802,7 +802,7 @@
                 "id": 71990495,
                 "language": "HTML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-03-26T22:58:45Z",
+                "last_commit": "2026-09-04T13:16:57Z",
                 "open_issues": 3,
                 "owner": "surikov",
                 "repo": "webaudiofont",
@@ -847,7 +847,7 @@
                 "open_issues": 7,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 782,
+                "stars": 783,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 64,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14719,
+            "stars": 14718,
             "topics": [
               "javascript",
               "music",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6038,
+                "stars": 6037,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2469,7 +2469,7 @@
                 "open_issues": 8,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 394,
+                "stars": 395,
                 "topics": [
                   "dls",
                   "midi",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3111,
+            "stars": 3112,
             "topics": [
               "audio",
               "computer-music",
@@ -3495,8 +3495,8 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T08:15:47Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-03T18:48:16Z",
+                "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
                 "stars": 10396,
@@ -3924,7 +3924,7 @@
                 "open_issues": 244,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:18:25.564Z",
+    "last_updated": "2026-09-04T17:07:53.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
