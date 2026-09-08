@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25341,
+            "stars": 25342,
             "topics": [
               "audio",
               "audio-library",
@@ -1115,7 +1115,7 @@
             "open_issues": 64,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14716,
+            "stars": 14717,
             "topics": [
               "javascript",
               "music",
@@ -1195,7 +1195,7 @@
             "open_issues": 39,
             "owner": "mohayonao",
             "repo": "timbre.js",
-            "stars": 968,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6037,
+                "stars": 6036,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2465,8 +2465,8 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T07:41:43Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-07T20:08:30Z",
+                "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
                 "stars": 395,
@@ -2511,7 +2511,7 @@
                 "open_issues": 10,
                 "owner": "igorski",
                 "repo": "efflux-tracker",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "audio-applications",
                   "audio-engine",
@@ -2825,7 +2825,7 @@
                 "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3113,
+            "stars": 3115,
             "topics": [
               "audio",
               "computer-music",
@@ -3499,7 +3499,7 @@
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10402,
+                "stars": 10405,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3890,7 +3890,7 @@
                 "open_issues": 4,
                 "owner": "margox",
                 "repo": "vudio.js",
-                "stars": 255,
+                "stars": 254,
                 "topics": [
                   "audio",
                   "visualization",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:25:20.618Z",
+    "last_updated": "2026-09-08T17:33:10.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
