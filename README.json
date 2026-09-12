@@ -309,7 +309,7 @@
             "open_issues": 19,
             "owner": "jazz-soft",
             "repo": "JZZ",
-            "stars": 594,
+            "stars": 595,
             "topics": [
               "audio",
               "javascript",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6038,
+                "stars": 6037,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2357,7 +2357,7 @@
                 "open_issues": 0,
                 "owner": "1j01",
                 "repo": "tri-chromatic-keyboard",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "app",
                   "chromatic",
@@ -2469,7 +2469,7 @@
                 "open_issues": 8,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 398,
+                "stars": 397,
                 "topics": [
                   "dls",
                   "midi",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1861,
+            "stars": 1863,
             "topics": [
               "audio",
               "daw",
@@ -3496,10 +3496,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T20:11:15Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10407,
+                "stars": 10408,
                 "topics": [
                   "audio",
                   "javascript",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:18:25.667Z",
+    "last_updated": "2026-09-12T16:31:38.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
@@ -4074,7 +4074,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-09-04T11:04:16Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "sc0ttj",
       "repo": "awesome-javascript-audio",
       "stars": 51,
