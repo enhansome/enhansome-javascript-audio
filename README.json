@@ -280,7 +280,7 @@
             "open_issues": 9,
             "owner": "grimmdude",
             "repo": "MidiWriterJS",
-            "stars": 606,
+            "stars": 607,
             "topics": [
               "audio",
               "es6",
@@ -688,7 +688,7 @@
             "open_issues": 30,
             "owner": "scribbletune",
             "repo": "johann",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 58,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14722,
+            "stars": 14725,
             "topics": [
               "javascript",
               "music",
@@ -1301,7 +1301,7 @@
             "open_issues": 30,
             "owner": "scribbletune",
             "repo": "johann",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2465,7 +2465,7 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T14:50:26Z",
+                "last_commit": "2026-09-17T10:08:08Z",
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
@@ -2799,7 +2799,7 @@
                 "open_issues": 6,
                 "owner": "hundredrabbits",
                 "repo": "Marabu",
-                "stars": 490,
+                "stars": 489,
                 "topics": [
                   "chiptune",
                   "music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1865,
+            "stars": 1866,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10416,
+                "stars": 10417,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3924,7 +3924,7 @@
                 "open_issues": 252,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2342,
+                "stars": 2345,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -3954,7 +3954,7 @@
                 "open_issues": 45,
                 "owner": "nexus-js",
                 "repo": "ui",
-                "stars": 875,
+                "stars": 874,
                 "topics": [
                   "computer-music",
                   "electroacoustic-music",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:45:40.398Z",
+    "last_updated": "2026-09-17T17:45:18.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
