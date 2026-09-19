@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25350,
+            "stars": 25349,
             "topics": [
               "audio",
               "audio-library",
@@ -1600,7 +1600,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": [
                   "audio",
                   "daw",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6039,
+                "stars": 6040,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2256,7 +2256,7 @@
                 "open_issues": 13,
                 "owner": "Wscats",
                 "repo": "piano",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "eno",
                   "eno-loader",
@@ -2825,7 +2825,7 @@
                 "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1867,
+            "stars": 1868,
             "topics": [
               "audio",
               "daw",
@@ -3495,11 +3495,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T16:41:14Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-18T17:23:58Z",
+                "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10419,
+                "stars": 10420,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3924,7 +3924,7 @@
                 "open_issues": 252,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2344,
+                "stars": 2345,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:15:57.590Z",
+    "last_updated": "2026-09-19T16:49:28.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
@@ -4074,7 +4074,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-09-04T11:04:16Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "sc0ttj",
       "repo": "awesome-javascript-audio",
       "stars": 51,
