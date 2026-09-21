@@ -62,7 +62,7 @@
             "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25349,
+            "stars": 25351,
             "topics": [
               "audio",
               "audio-library",
@@ -259,7 +259,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3924,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -346,7 +346,7 @@
             "open_issues": 7,
             "owner": "grimmdude",
             "repo": "MidiPlayerJS",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "audio",
               "es6",
@@ -1115,7 +1115,7 @@
             "open_issues": 58,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14728,
+            "stars": 14731,
             "topics": [
               "javascript",
               "music",
@@ -2151,7 +2151,7 @@
                 "open_issues": 20,
                 "owner": "1j01",
                 "repo": "guitar",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "app",
                   "editor",
@@ -2253,7 +2253,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-03-31T23:32:11Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "Wscats",
                 "repo": "piano",
                 "stars": 1172,
@@ -2285,8 +2285,8 @@
                 "id": 4966271,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2025-12-28T00:24:13Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-20T21:07:28Z",
+                "open_issues": 0,
                 "owner": "stuartmemo",
                 "repo": "qwerty-hancock",
                 "stars": 275,
@@ -3249,11 +3249,11 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T14:03:26Z",
+            "last_commit": "2026-09-21T16:20:11Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3126,
+            "stars": 3128,
             "topics": [
               "audio",
               "computer-music",
@@ -3495,8 +3495,8 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T17:23:58Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-21T11:50:49Z",
+                "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
                 "stars": 10419,
@@ -3920,11 +3920,11 @@
                 "id": 15205201,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-09T19:25:32Z",
+                "last_commit": "2026-09-21T14:48:02Z",
                 "open_issues": 252,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2346,
+                "stars": 2347,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:01:34.732Z",
+    "last_updated": "2026-09-21T18:55:03.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
