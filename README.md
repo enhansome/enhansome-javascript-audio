@@ -52,7 +52,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 
 ## Libraries: Web Audio API
 
-* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,351 | 🐛 418 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
+* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,352 | 🐛 418 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
 * [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - micro library to load, generate and play sounds
 * [webaudio-peaks](https://github.com/naomiaro/webaudio-peaks) ⭐ 58 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - small library to get peaks from audio
 * [scriptify/sountility](https://github.com/scriptify/sountility) ⭐ 50 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-03 - includes many small packages for adding, mixing, toggling effects on AudioNodes
@@ -109,7 +109,7 @@ Sounds that can be downloaded and used in your JS applications:
 
 Instruments and sounds you can attach to MIDI notes (using the Web MIDI API):
 
-* [surikov/webaudiofont](https://github.com/surikov/webaudiofont) ⭐ 989 | 🐛 3 | 🌐 HTML | 📅 2026-09-04 - use full GM set of musical instruments to play MIDI and single sounds or effects
+* [surikov/webaudiofont](https://github.com/surikov/webaudiofont) ⭐ 990 | 🐛 3 | 🌐 HTML | 📅 2026-09-04 - use full GM set of musical instruments to play MIDI and single sounds or effects
 * [midi-js-soundfonts](https://github.com/gleitz/midi-js-soundfonts) ⭐ 786 | 🐛 5 | 📅 2022-03-09 - pre-rendered, MIDI soundfonts for use with MIDI.js
 * [soundfont-player](https://github.com/danigb/soundfont-player) ⚠️ Archived - nice little library for loading and playing sound fonts
 * [colinbdclark/sf2-parser](https://github.com/colinbdclark/sf2-parser) ⭐ 58 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-14 - a SoundFont 2 parser, extracted from [sf2synth.js](https://github.com/gree/sf2synth.js) ⭐ 54 | 🐛 5 | 🌐 JavaScript | 📅 2020-12-28
@@ -133,9 +133,9 @@ High quality recordings of instruments, nicely organised into separate files, in
 
 Programmatically create notes, chords, intervals, effects, etc:
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,733 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-16 - A Web Audio framework for making interactive music in the browser
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,739 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-16 - A Web Audio framework for making interactive music in the browser
 * [teoria](https://github.com/saebekassebil/teoria) ⭐ 1,376 | 🐛 25 | 🌐 JavaScript | 📅 2019-12-01 - create notes, chords, scales, intervals.. get notes form intervals, and more..
-* [beep.js](https://github.com/stewdio/beep.js) ⭐ 1,367 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - a JavaScript toolkit for building browser-based synthesizers
+* [beep.js](https://github.com/stewdio/beep.js) ⭐ 1,368 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - a JavaScript toolkit for building browser-based synthesizers
 * [timbre.js](https://github.com/mohayonao/timbre.js/) ⚠️ Archived - JavaScript library for objective sound programming (archived)
 * [tonejs-instruments](https://github.com/nbrosowsky/tonejs-instruments) ⭐ 547 | 🐛 5 | 🌐 JavaScript | 📅 2023-06-01 - instrument presets for Tone.js
 * [octavian](https://github.com/stevekinney/octavian) ⭐ 182 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 - utilities for reasoning about musical notes, frequencies, and intervals
@@ -223,8 +223,8 @@ Frontends and UIs to load & your play your sounds.
 * [WarpPrism/AutoPiano](https://github.com/WarpPrism/AutoPiano) ⚠️ Archived - feature-packed, large piano
 * [Wscats/piano](https://github.com/Wscats/piano) ⭐ 1,172 | 🐛 14 | 🌐 JavaScript | 📅 2026-03-31 - nice piano, decent sounds, can make it play for you
 * [qwerty-hancock](https://github.com/stuartmemo/qwerty-hancock) ⭐ 275 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - simple JS piano component for larger projects, see [qwerty hancock](https://stuartmemo.com/qwerty-hancock/)
+* [iBundin/Open-Web-Piano](https://github.com/iBundin/Open-Web-Piano) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-13 - nice piano, user-friendly: supports choosing a MIDI device on load
 * [midi-with-node](https://github.com/Pomax/midi-with-node) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-25 - a web based GUI & NodeJS backend that can register as a MIDI device in your DAW
-* [iBundin/Open-Web-Piano](https://github.com/iBundin/Open-Web-Piano) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-13 - nice piano, user-friendly: supports choosing a MIDI device on load
 * [tri-chromatic-keyboard](https://github.com/1j01/tri-chromatic-keyboard) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-27 - nice, easy way to play piano for those who *can't* play piano (different key layout)
 * [TomerAberbach/piano](https://github.com/TomerAberbach/piano) ⚠️ Archived - very nice sounding piano, simple UI
 * [noodle-doodle](https://github.com/Pomax/noodle-doodle) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-12-24 - a nice piano roll, [demo here](https://pomax.github.io/noodle-doodle/)
@@ -249,7 +249,7 @@ Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, 
 Generate and edit your own sounds, voices and sound effects.
 
 * [stevengoldberg/juno106](https://github.com/stevengoldberg/juno106) ⭐ 530 | 🐛 7 | 🌐 JavaScript | 📅 2015-08-19 - a Roland Juno 106 synth
-* [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) ⭐ 489 | 🐛 6 | 🌐 JavaScript | 📅 2025-04-16 - powerful synth, with GUI
+* [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) ⭐ 490 | 🐛 6 | 🌐 JavaScript | 📅 2025-04-16 - powerful synth, with GUI
 * [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) ⭐ 271 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-20 - webaudio-tinysynth is a small synthesizer written in JavaScript with GM like timbre map
 * [nicolas-van/sonant-x](https://github.com/nicolas-van/sonant-x) ⭐ 249 | 🐛 2 | 🌐 JavaScript | 📅 2025-06-18 - lightweight synth library
 * [errozero/poly-synth](https://github.com/errozero/poly-synth) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2021-05-25 - fully-fledged synth, with GUI, presets, etc
@@ -277,8 +277,8 @@ These are more complete - they have multiple instruments.
 
 A "DAW" is a digital audio workstation - an all-round music production app
 
-* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,127 | 🐛 2 | 🌐 C++ | 📅 2026-09-23 - requires isgn up. A highly automated and intuitive DAW
-* [gridsound](https://github.com/gridsound/daw) ⭐ 1,867 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-28 - a lovely open source DAW, uses Web Audio API
+* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,128 | 🐛 2 | 🌐 C++ | 📅 2026-09-23 - requires isgn up. A highly automated and intuitive DAW
+* [gridsound](https://github.com/gridsound/daw) ⭐ 1,868 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-28 - a lovely open source DAW, uses Web Audio API
 * [TReactor](https://github.com/kevin-chau/TReactr) ⭐ 34 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-22 - a Traktor clone, written in React
 * [XinDaw](https://github.com/dotgreg/XinDaw) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-02 - a multiscreen Web-based DAW designed for audio\&video live performances (Tone.js/React/Meteor)
 * [audionodes](https://audionodes.com/online/) - very user-friendly, node editor based DAW (not open source)
@@ -298,11 +298,11 @@ A "DAW" is a digital audio workstation - an all-round music production app
 
 ### Visual waveform generators
 
-* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,418 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-23 - generate navigable waveforms
+* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,419 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-24 - generate navigable waveforms
 * [bbc/peaks.js](https://github.com/bbc/peaks.js) ⭐ 3,406 | 🐛 64 | 🌐 JavaScript | 📅 2025-11-08 - UI component for interacting with waveforms
 * [WFPlayer](https://github.com/zhw2590582/WFPlayer) ⚠️ Archived - an audio waveform generator, nice features
 * [audio-oscilloscope](https://github.com/mathiasvr/audio-oscilloscope) ⭐ 96 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-06 - waveform vizualiser for HTML5 Canvas
-* [waveplayer.js](https://github.com/michaeldzjap/waveplayer.js) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03 - mp3 player that produces wavforms
+* [waveplayer.js](https://github.com/michaeldzjap/waveplayer.js) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - mp3 player that produces wavforms
 * [chrisweb/waveform-visualizer](https://github.com/chrisweb/waveform-visualizer) ⭐ 35 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-30 - waveform generator
 * [audio-to-svg-waveform](https://github.com/invokemedia/audio-to-svg-waveform) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2017-12-01 - simple, generates SVGs, nothing else
 * [patidar-suresh/audio-waveform](https://github.com/patidar-suresh/audio-waveform) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2020-10-23 - uses HTML5 Canvas and requestAnimationFrame
@@ -336,4 +336,4 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
