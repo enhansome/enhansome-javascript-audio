@@ -62,7 +62,7 @@
             "open_issues": 418,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25352,
+            "stars": 25351,
             "topics": [
               "audio",
               "audio-library",
@@ -539,7 +539,7 @@
             "id": 44274144,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T13:56:49Z",
+            "last_commit": "2026-09-24T21:23:15Z",
             "open_issues": 5,
             "owner": "djipco",
             "repo": "webmidi",
@@ -1115,7 +1115,7 @@
             "open_issues": 58,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14739,
+            "stars": 14740,
             "topics": [
               "javascript",
               "music",
@@ -1711,7 +1711,7 @@
                 "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1678,
+                "stars": 1679,
                 "topics": [
                   "annotations",
                   "audio",
@@ -2469,7 +2469,7 @@
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 400,
+                "stars": 403,
                 "topics": [
                   "dls",
                   "midi",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3128,
+            "stars": 3130,
             "topics": [
               "audio",
               "computer-music",
@@ -3499,7 +3499,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10419,
+                "stars": 10417,
                 "topics": [
                   "audio",
                   "javascript",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:58:57.699Z",
+    "last_updated": "2026-09-25T18:05:46.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
