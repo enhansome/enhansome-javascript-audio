@@ -62,7 +62,7 @@
             "open_issues": 418,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25354,
+            "stars": 25358,
             "topics": [
               "audio",
               "audio-library",
@@ -1111,11 +1111,11 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T00:32:45Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-27T21:02:33Z",
+            "open_issues": 55,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14743,
+            "stars": 14746,
             "topics": [
               "javascript",
               "music",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6040,
+                "stars": 6039,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2256,7 +2256,7 @@
                 "open_issues": 14,
                 "owner": "Wscats",
                 "repo": "piano",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "eno",
                   "eno-loader",
@@ -2597,7 +2597,7 @@
                 "id": 142345534,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2023-08-03T11:03:37Z",
+                "last_commit": "2026-09-27T18:36:33Z",
                 "open_issues": 27,
                 "owner": "stufreen",
                 "repo": "web-drum-sequencer",
@@ -3249,7 +3249,7 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T13:38:26Z",
+            "last_commit": "2026-09-28T19:16:18Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
@@ -3924,7 +3924,7 @@
                 "open_issues": 252,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2350,
+                "stars": 2351,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:56:55.334Z",
+    "last_updated": "2026-09-28T20:15:07.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",

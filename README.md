@@ -52,7 +52,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 
 ## Libraries: Web Audio API
 
-* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,354 | 🐛 418 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
+* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,358 | 🐛 418 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
 * [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - micro library to load, generate and play sounds
 * [webaudio-peaks](https://github.com/naomiaro/webaudio-peaks) ⭐ 57 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - small library to get peaks from audio
 * [scriptify/sountility](https://github.com/scriptify/sountility) ⭐ 50 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-03 - includes many small packages for adding, mixing, toggling effects on AudioNodes
@@ -133,7 +133,7 @@ High quality recordings of instruments, nicely organised into separate files, in
 
 Programmatically create notes, chords, intervals, effects, etc:
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,743 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-16 - A Web Audio framework for making interactive music in the browser
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,746 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-27 - A Web Audio framework for making interactive music in the browser
 * [teoria](https://github.com/saebekassebil/teoria) ⭐ 1,376 | 🐛 25 | 🌐 JavaScript | 📅 2019-12-01 - create notes, chords, scales, intervals.. get notes form intervals, and more..
 * [beep.js](https://github.com/stewdio/beep.js) ⭐ 1,368 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - a JavaScript toolkit for building browser-based synthesizers
 * [timbre.js](https://github.com/mohayonao/timbre.js/) ⚠️ Archived - JavaScript library for objective sound programming (archived)
@@ -221,7 +221,7 @@ Frontends and UIs to load & your play your sounds.
 ### Piano
 
 * [WarpPrism/AutoPiano](https://github.com/WarpPrism/AutoPiano) ⚠️ Archived - feature-packed, large piano
-* [Wscats/piano](https://github.com/Wscats/piano) ⭐ 1,172 | 🐛 14 | 🌐 JavaScript | 📅 2026-03-31 - nice piano, decent sounds, can make it play for you
+* [Wscats/piano](https://github.com/Wscats/piano) ⭐ 1,173 | 🐛 14 | 🌐 JavaScript | 📅 2026-03-31 - nice piano, decent sounds, can make it play for you
 * [qwerty-hancock](https://github.com/stuartmemo/qwerty-hancock) ⭐ 275 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - simple JS piano component for larger projects, see [qwerty hancock](https://stuartmemo.com/qwerty-hancock/)
 * [iBundin/Open-Web-Piano](https://github.com/iBundin/Open-Web-Piano) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-13 - nice piano, user-friendly: supports choosing a MIDI device on load
 * [midi-with-node](https://github.com/Pomax/midi-with-node) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-25 - a web based GUI & NodeJS backend that can register as a MIDI device in your DAW
@@ -237,7 +237,7 @@ Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, 
 * [efflux-tracker](https://github.com/igorski/efflux-tracker) ⭐ 261 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-02 - browser based music tracker ([here](https://www.igorski.nl/application/efflux/)) driving a modular synth environment with MIDI support
 * [tinysynth](https://github.com/n1k0/tinysynth) ⚠️ Archived - a nice little sequencer, easy to use, nice UI, generate random tracks
 * [hatsumatsu/108](https://github.com/hatsumatsu/108) ⭐ 213 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - a slick, minimalist circular beat sequencer
-* [web-drum-sequencer](https://github.com/stufreen/web-drum-sequencer) ⭐ 174 | 🐛 27 | 🌐 JavaScript | 📅 2023-08-03 - A drum machine and sequencer built with the Web Audio API, React, and Redux
+* [web-drum-sequencer](https://github.com/stufreen/web-drum-sequencer) ⭐ 174 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-27 - A drum machine and sequencer built with the Web Audio API, React, and Redux
 * [nicolas-van/sonant-x-live](https://github.com/nicolas-van/sonant-x-live) ⭐ 103 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-08 - piano keyboard, filters, synth, sequencer, uses [sonant-x](https://github.com/nicolas-van/sonant-x) ⭐ 249 | 🐛 2 | 🌐 JavaScript | 📅 2025-06-18
 * [da-beat-sequencer](https://github.com/juniorheptachords/da-beat-sequencer) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-05 - lightweight MIDI and audio sequencer
 * [andrefcasimiro/midikrew](https://github.com/andrefcasimiro/midikrew) ⭐ 1 | 🐛 6 | 🌐 JavaScript | 📅 2024-11-19 - full fledged music sequencer, built with React
@@ -277,7 +277,7 @@ These are more complete - they have multiple instruments.
 
 A "DAW" is a digital audio workstation - an all-round music production app
 
-* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,132 | 🐛 2 | 🌐 C++ | 📅 2026-09-27 - requires isgn up. A highly automated and intuitive DAW
+* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,132 | 🐛 2 | 🌐 C++ | 📅 2026-09-28 - requires isgn up. A highly automated and intuitive DAW
 * [gridsound](https://github.com/gridsound/daw) ⭐ 1,871 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-28 - a lovely open source DAW, uses Web Audio API
 * [TReactor](https://github.com/kevin-chau/TReactr) ⭐ 34 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-22 - a Traktor clone, written in React
 * [XinDaw](https://github.com/dotgreg/XinDaw) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-02 - a multiscreen Web-based DAW designed for audio\&video live performances (Tone.js/React/Meteor)
@@ -327,7 +327,7 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ### Other UI
 
-* [paulrosen/abcjs](https://github.com/paulrosen/abcjs) ⭐ 2,350 | 🐛 252 | 🌐 HTML | 📅 2026-09-21 - for rendering music notation
+* [paulrosen/abcjs](https://github.com/paulrosen/abcjs) ⭐ 2,351 | 🐛 252 | 🌐 HTML | 📅 2026-09-21 - for rendering music notation
 * [nexus-js/ui](https://github.com/nexus-js/ui) ⭐ 874 | 🐛 45 | 🌐 JavaScript | 📅 2025-07-03 - very nice UI toolkit for web based MIDI instrument [UI components](https://nexus-js.github.io/ui/) (used by nofft, above)
 * [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls) ⭐ 372 | 🐛 20 | 🌐 JavaScript | 📅 2025-10-04 - web components aimed at VST instruments, DAWs, etc
 * [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) ⭐ 62 | 🐛 8 | 🌐 TypeScript | 📅 2022-12-08 - a UI for generating Web Audio API code
@@ -336,4 +336,4 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
