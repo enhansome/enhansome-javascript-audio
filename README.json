@@ -62,7 +62,7 @@
             "open_issues": 418,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25358,
+            "stars": 25359,
             "topics": [
               "audio",
               "audio-library",
@@ -242,7 +242,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 786,
+                "stars": 787,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -847,7 +847,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 786,
+                "stars": 787,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1111,11 +1111,11 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T21:02:33Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-29T06:15:07Z",
+            "open_issues": 57,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14746,
+            "stars": 14748,
             "topics": [
               "javascript",
               "music",
@@ -1657,7 +1657,7 @@
                 "open_issues": 78,
                 "owner": "alemangui",
                 "repo": "pizzicato",
-                "stars": 1710,
+                "stars": 1709,
                 "topics": [
                   "audio",
                   "effects",
@@ -1707,11 +1707,11 @@
                 "id": 8150190,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T22:33:12Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-28T21:42:26Z",
+                "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": [
                   "annotations",
                   "audio",
@@ -2256,7 +2256,7 @@
                 "open_issues": 14,
                 "owner": "Wscats",
                 "repo": "piano",
-                "stars": 1173,
+                "stars": 1174,
                 "topics": [
                   "eno",
                   "eno-loader",
@@ -2469,7 +2469,7 @@
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "dls",
                   "midi",
@@ -3249,7 +3249,7 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T19:16:18Z",
+            "last_commit": "2026-09-29T13:50:05Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1871,
+            "stars": 1873,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10420,
+                "stars": 10422,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3924,7 +3924,7 @@
                 "open_issues": 252,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2351,
+                "stars": 2352,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:15:07.470Z",
+    "last_updated": "2026-09-29T18:53:38.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
