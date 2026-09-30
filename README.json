@@ -62,7 +62,7 @@
             "open_issues": 418,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25359,
+            "stars": 25358,
             "topics": [
               "audio",
               "audio-library",
@@ -540,7 +540,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T21:23:15Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "djipco",
             "repo": "webmidi",
             "stars": 1715,
@@ -1112,10 +1112,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T06:15:07Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14748,
+            "stars": 14749,
             "topics": [
               "javascript",
               "music",
@@ -1566,7 +1566,7 @@
                 "open_issues": 9,
                 "owner": "sebpiq",
                 "repo": "WebPd",
-                "stars": 999,
+                "stars": 1000,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2123,7 +2123,7 @@
                 "open_issues": 30,
                 "owner": "vitaliy-bobrov",
                 "repo": "js-rocks",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "angular",
                   "daw",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6039,
+                "stars": 6040,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2469,7 +2469,7 @@
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "dls",
                   "midi",
@@ -3249,11 +3249,11 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T13:50:05Z",
+            "last_commit": "2026-09-30T00:54:37Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3132,
+            "stars": 3135,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1873,
+            "stars": 1874,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10422,
+                "stars": 10428,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3527,7 +3527,7 @@
                 "open_issues": 64,
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": [
                   "audio",
                   "javascript"
@@ -3924,7 +3924,7 @@
                 "open_issues": 252,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2352,
+                "stars": 2353,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:53:38.726Z",
+    "last_updated": "2026-09-30T18:36:24.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
@@ -4074,7 +4074,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-09-04T11:04:16Z",
-      "open_issues": 8,
+      "open_issues": 7,
       "owner": "sc0ttj",
       "repo": "awesome-javascript-audio",
       "stars": 51,
