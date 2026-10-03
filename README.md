@@ -52,7 +52,7 @@ JavaScript tools, libraries and components for creating/managing audio, sounds a
 
 ## Libraries: Web Audio API
 
-* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,357 | 🐛 418 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
+* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,356 | 🐛 418 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
 * [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - micro library to load, generate and play sounds
 * [webaudio-peaks](https://github.com/naomiaro/webaudio-peaks) ⭐ 57 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - small library to get peaks from audio
 * [scriptify/sountility](https://github.com/scriptify/sountility) ⭐ 50 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-03 - includes many small packages for adding, mixing, toggling effects on AudioNodes
@@ -133,7 +133,7 @@ High quality recordings of instruments, nicely organised into separate files, in
 
 Programmatically create notes, chords, intervals, effects, etc:
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,746 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-02 - A Web Audio framework for making interactive music in the browser
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,748 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-03 - A Web Audio framework for making interactive music in the browser
 * [teoria](https://github.com/saebekassebil/teoria) ⭐ 1,376 | 🐛 25 | 🌐 JavaScript | 📅 2019-12-01 - create notes, chords, scales, intervals.. get notes form intervals, and more..
 * [beep.js](https://github.com/stewdio/beep.js) ⭐ 1,368 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - a JavaScript toolkit for building browser-based synthesizers
 * [timbre.js](https://github.com/mohayonao/timbre.js/) ⚠️ Archived - JavaScript library for objective sound programming (archived)
@@ -277,7 +277,7 @@ These are more complete - they have multiple instruments.
 
 A "DAW" is a digital audio workstation - an all-round music production app
 
-* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,136 | 🐛 2 | 🌐 C++ | 📅 2026-10-02 - requires isgn up. A highly automated and intuitive DAW
+* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,136 | 🐛 2 | 🌐 C++ | 📅 2026-10-03 - requires isgn up. A highly automated and intuitive DAW
 * [gridsound](https://github.com/gridsound/daw) ⭐ 1,876 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-28 - a lovely open source DAW, uses Web Audio API
 * [TReactor](https://github.com/kevin-chau/TReactr) ⭐ 34 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-22 - a Traktor clone, written in React
 * [XinDaw](https://github.com/dotgreg/XinDaw) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-02 - a multiscreen Web-based DAW designed for audio\&video live performances (Tone.js/React/Meteor)
@@ -336,4 +336,4 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
