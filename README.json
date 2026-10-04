@@ -62,7 +62,7 @@
             "open_issues": 419,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25356,
+            "stars": 25357,
             "topics": [
               "audio",
               "audio-library",
@@ -1111,11 +1111,11 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:13:07Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-04T17:48:50Z",
+            "open_issues": 54,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14748,
+            "stars": 14750,
             "topics": [
               "javascript",
               "music",
@@ -2825,7 +2825,7 @@
                 "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 271,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -3249,11 +3249,11 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T14:31:27Z",
+            "last_commit": "2026-10-04T07:48:21Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3138,
+            "stars": 3141,
             "topics": [
               "audio",
               "computer-music",
@@ -3499,7 +3499,7 @@
                 "open_issues": 17,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10426,
+                "stars": 10427,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3524,7 +3524,7 @@
                 "language": "JavaScript",
                 "license": "LGPL-3.0",
                 "last_commit": "2025-11-08T03:09:27Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "bbc",
                 "repo": "peaks.js",
                 "stars": 3407,
@@ -3600,8 +3600,8 @@
                 "id": 34217626,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T17:52:45Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-04T14:49:06Z",
+                "open_issues": 1,
                 "owner": "michaeldzjap",
                 "repo": "waveplayer",
                 "stars": 82,
@@ -3924,7 +3924,7 @@
                 "open_issues": 251,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2354,
+                "stars": 2355,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4024,7 +4024,7 @@
                 "open_issues": 2,
                 "owner": "g200kg",
                 "repo": "input-knobs",
-                "stars": 60,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:38:27.420Z",
+    "last_updated": "2026-10-04T17:52:03.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
