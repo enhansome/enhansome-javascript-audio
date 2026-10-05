@@ -59,10 +59,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-11-23T23:49:01Z",
-            "open_issues": 419,
+            "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25357,
+            "stars": 25356,
             "topics": [
               "audio",
               "audio-library",
@@ -280,7 +280,7 @@
             "open_issues": 9,
             "owner": "grimmdude",
             "repo": "MidiWriterJS",
-            "stars": 607,
+            "stars": 608,
             "topics": [
               "audio",
               "es6",
@@ -1111,11 +1111,11 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T17:48:50Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-04T20:15:08Z",
+            "open_issues": 53,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14750,
+            "stars": 14751,
             "topics": [
               "javascript",
               "music",
@@ -1630,7 +1630,7 @@
                 "open_issues": 4,
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "audio",
                   "audio-effect",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6040,
+                "stars": 6039,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2469,7 +2469,7 @@
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 407,
+                "stars": 406,
                 "topics": [
                   "dls",
                   "midi",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3141,
+            "stars": 3142,
             "topics": [
               "audio",
               "computer-music",
@@ -3278,7 +3278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "GridSound (2.59.3) is a work-in-progress free browser-based digital audio workstation following the Web Audio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️",
+            "description": "GridSound (2.60.0) is a work-in-progress free browser-based digital audio workstation following the Web Audio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️",
             "homepage": "https://gridsound.com",
             "id": 55375779,
             "language": "JavaScript",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1876,
+            "stars": 1875,
             "topics": [
               "audio",
               "daw",
@@ -3495,8 +3495,8 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T08:19:18Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-05T10:57:00Z",
+                "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
                 "stars": 10427,
@@ -3861,7 +3861,7 @@
                 "open_issues": 14,
                 "owner": "kelvinau",
                 "repo": "circular-audio-wave",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "audio-reactive",
                   "canvas",
@@ -3924,7 +3924,7 @@
                 "open_issues": 251,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2355,
+                "stars": 2356,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:52:03.614Z",
+    "last_updated": "2026-10-05T21:28:39.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
