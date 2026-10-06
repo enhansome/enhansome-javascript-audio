@@ -1711,7 +1711,7 @@
                 "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": [
                   "annotations",
                   "audio",
@@ -2469,7 +2469,7 @@
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 406,
+                "stars": 408,
                 "topics": [
                   "dls",
                   "midi",
@@ -3283,11 +3283,11 @@
             "id": 55375779,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-07-28T19:09:42Z",
+            "last_commit": "2026-10-05T23:46:59Z",
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1875,
+            "stars": 1876,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10427,
+                "stars": 10428,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3924,7 +3924,7 @@
                 "open_issues": 251,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2356,
+                "stars": 2357,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:28:39.194Z",
+    "last_updated": "2026-10-06T10:43:13.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
