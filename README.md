@@ -175,7 +175,7 @@ These produce sounds which oscillate between two values on a low frequency, foll
 
 Samplers make it easy to import, chop up, and extract parts of an audio file (usually WAV or MP3).
 
-* [waveform-playlist](https://github.com/naomiaro/waveform-playlist) ⭐ 1,680 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-28 - very nice multi-track WAV editor, similar to Audacity :)
+* [waveform-playlist](https://github.com/naomiaro/waveform-playlist) ⭐ 1,680 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-06 - very nice multi-track WAV editor, similar to Audacity :)
 * [hya-wave](https://wav.hya.io/#/fx) - nice online WAV editor
 
 ### ADSR envelopes
@@ -249,7 +249,7 @@ Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, 
 Generate and edit your own sounds, voices and sound effects.
 
 * [stevengoldberg/juno106](https://github.com/stevengoldberg/juno106) ⭐ 530 | 🐛 7 | 🌐 JavaScript | 📅 2015-08-19 - a Roland Juno 106 synth
-* [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) ⭐ 490 | 🐛 6 | 🌐 JavaScript | 📅 2025-04-16 - powerful synth, with GUI
+* [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) ⭐ 491 | 🐛 6 | 🌐 JavaScript | 📅 2025-04-16 - powerful synth, with GUI
 * [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) ⭐ 270 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-20 - webaudio-tinysynth is a small synthesizer written in JavaScript with GM like timbre map
 * [nicolas-van/sonant-x](https://github.com/nicolas-van/sonant-x) ⭐ 249 | 🐛 2 | 🌐 JavaScript | 📅 2025-06-18 - lightweight synth library
 * [errozero/poly-synth](https://github.com/errozero/poly-synth) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2021-05-25 - fully-fledged synth, with GUI, presets, etc
@@ -277,8 +277,8 @@ These are more complete - they have multiple instruments.
 
 A "DAW" is a digital audio workstation - an all-round music production app
 
-* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,142 | 🐛 2 | 🌐 C++ | 📅 2026-10-04 - requires isgn up. A highly automated and intuitive DAW
-* [gridsound](https://github.com/gridsound/daw) ⭐ 1,876 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-05 - a lovely open source DAW, uses Web Audio API
+* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,143 | 🐛 2 | 🌐 C++ | 📅 2026-10-04 - requires isgn up. A highly automated and intuitive DAW
+* [gridsound](https://github.com/gridsound/daw) ⭐ 1,875 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-05 - a lovely open source DAW, uses Web Audio API
 * [TReactor](https://github.com/kevin-chau/TReactr) ⭐ 34 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-22 - a Traktor clone, written in React
 * [XinDaw](https://github.com/dotgreg/XinDaw) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-02 - a multiscreen Web-based DAW designed for audio\&video live performances (Tone.js/React/Meteor)
 * [audionodes](https://audionodes.com/online/) - very user-friendly, node editor based DAW (not open source)
@@ -298,8 +298,8 @@ A "DAW" is a digital audio workstation - an all-round music production app
 
 ### Visual waveform generators
 
-* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,428 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-05 - generate navigable waveforms
-* [bbc/peaks.js](https://github.com/bbc/peaks.js) ⭐ 3,407 | 🐛 65 | 🌐 JavaScript | 📅 2025-11-08 - UI component for interacting with waveforms
+* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,429 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-05 - generate navigable waveforms
+* [bbc/peaks.js](https://github.com/bbc/peaks.js) ⭐ 3,408 | 🐛 65 | 🌐 JavaScript | 📅 2025-11-08 - UI component for interacting with waveforms
 * [WFPlayer](https://github.com/zhw2590582/WFPlayer) ⚠️ Archived - an audio waveform generator, nice features
 * [audio-oscilloscope](https://github.com/mathiasvr/audio-oscilloscope) ⭐ 96 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-06 - waveform vizualiser for HTML5 Canvas
 * [waveplayer.js](https://github.com/michaeldzjap/waveplayer.js) ⭐ 82 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04 - mp3 player that produces wavforms
