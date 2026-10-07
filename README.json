@@ -62,7 +62,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25356,
+            "stars": 25357,
             "topics": [
               "audio",
               "audio-library",
@@ -1112,10 +1112,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-04T20:15:08Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14751,
+            "stars": 14753,
             "topics": [
               "javascript",
               "music",
@@ -1711,7 +1711,7 @@
                 "open_issues": 56,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1680,
+                "stars": 1681,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1902,7 +1902,7 @@
                 "open_issues": 15,
                 "owner": "cwilso",
                 "repo": "Vocoder",
-                "stars": 364,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2465,7 +2465,7 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T15:57:33Z",
+                "last_commit": "2026-10-07T18:36:06Z",
                 "open_issues": 7,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3143,
+            "stars": 3144,
             "topics": [
               "audio",
               "computer-music",
@@ -3495,8 +3495,8 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T10:57:00Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-07T10:20:07Z",
+                "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
                 "stars": 10429,
@@ -3733,7 +3733,7 @@
                 "open_issues": 10,
                 "owner": "cwilso",
                 "repo": "WebAudio",
-                "stars": 501,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -3924,7 +3924,7 @@
                 "open_issues": 251,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2357,
+                "stars": 2358,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:07:08.302Z",
+    "last_updated": "2026-10-07T19:33:33.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
