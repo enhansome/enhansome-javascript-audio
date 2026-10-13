@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "joshwcomeau",
                 "repo": "waveforms",
-                "stars": 1480,
+                "stars": 1481,
                 "topics": [
                   "animation",
                   "canvas",
@@ -62,7 +62,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25375,
+            "stars": 25381,
             "topics": [
               "audio",
               "audio-library",
@@ -1115,7 +1115,7 @@
             "open_issues": 59,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14758,
+            "stars": 14761,
             "topics": [
               "javascript",
               "music",
@@ -1165,7 +1165,7 @@
             "open_issues": 3,
             "owner": "stewdio",
             "repo": "beep.js",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "audio",
               "beep",
@@ -1195,7 +1195,7 @@
             "open_issues": 39,
             "owner": "mohayonao",
             "repo": "timbre.js",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1711,7 +1711,7 @@
                 "open_issues": 56,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "annotations",
                   "audio",
@@ -2123,7 +2123,7 @@
                 "open_issues": 30,
                 "owner": "vitaliy-bobrov",
                 "repo": "js-rocks",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "angular",
                   "daw",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6035,
+                "stars": 6036,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2469,7 +2469,7 @@
                 "open_issues": 6,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 408,
+                "stars": 409,
                 "topics": [
                   "dls",
                   "midi",
@@ -2511,7 +2511,7 @@
                 "open_issues": 10,
                 "owner": "igorski",
                 "repo": "efflux-tracker",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "audio-applications",
                   "audio-engine",
@@ -2629,7 +2629,7 @@
                 "open_issues": 9,
                 "owner": "nicolas-van",
                 "repo": "sonant-x-live",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3249,11 +3249,11 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T14:32:20Z",
+            "last_commit": "2026-10-13T04:03:14Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3152,
+            "stars": 3153,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1878,
+            "stars": 1879,
             "topics": [
               "audio",
               "daw",
@@ -3495,11 +3495,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T11:10:58Z",
+                "last_commit": "2026-10-13T06:40:49Z",
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10439,
+                "stars": 10440,
                 "topics": [
                   "audio",
                   "javascript",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:52:53.870Z",
+    "last_updated": "2026-10-13T19:58:07.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
