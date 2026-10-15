@@ -62,7 +62,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25383,
+            "stars": 25389,
             "topics": [
               "audio",
               "audio-library",
@@ -1112,10 +1112,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-12T10:59:52Z",
-            "open_issues": 59,
+            "open_issues": 58,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14762,
+            "stars": 14764,
             "topics": [
               "javascript",
               "music",
@@ -2469,7 +2469,7 @@
                 "open_issues": 6,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 409,
+                "stars": 410,
                 "topics": [
                   "dls",
                   "midi",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3157,
+            "stars": 3158,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1880,
+            "stars": 1879,
             "topics": [
               "audio",
               "daw",
@@ -3527,7 +3527,7 @@
                 "open_issues": 72,
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3410,
+                "stars": 3408,
                 "topics": [
                   "audio",
                   "javascript"
@@ -3600,8 +3600,8 @@
                 "id": 34217626,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T08:18:04Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-15T17:14:28Z",
+                "open_issues": 1,
                 "owner": "michaeldzjap",
                 "repo": "waveplayer",
                 "stars": 82,
@@ -3824,7 +3824,7 @@
                 "open_issues": 5,
                 "owner": "preziotte",
                 "repo": "party-mode",
-                "stars": 806,
+                "stars": 807,
                 "topics": [
                   "art",
                   "audio",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:11:06.565Z",
+    "last_updated": "2026-10-15T17:53:31.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
@@ -4077,7 +4077,7 @@
       "open_issues": 9,
       "owner": "sc0ttj",
       "repo": "awesome-javascript-audio",
-      "stars": 51,
+      "stars": 52,
       "topics": [
         "audio",
         "awesome-list",
