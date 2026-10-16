@@ -62,7 +62,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25389,
+            "stars": 25393,
             "topics": [
               "audio",
               "audio-library",
@@ -242,7 +242,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 790,
+                "stars": 791,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -847,7 +847,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 790,
+                "stars": 791,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 58,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14764,
+            "stars": 14773,
             "topics": [
               "javascript",
               "music",
@@ -1144,7 +1144,7 @@
             "open_issues": 25,
             "owner": "saebekassebil",
             "repo": "teoria",
-            "stars": 1375,
+            "stars": 1376,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2469,7 +2469,7 @@
                 "open_issues": 6,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "dls",
                   "midi",
@@ -2957,7 +2957,7 @@
                 "open_issues": 6,
                 "owner": "logue",
                 "repo": "sf2synth.js",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "javascript",
                   "midi",
@@ -3499,7 +3499,7 @@
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10441,
+                "stars": 10442,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3600,8 +3600,8 @@
                 "id": 34217626,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T17:14:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-16T06:05:09Z",
+                "open_issues": 0,
                 "owner": "michaeldzjap",
                 "repo": "waveplayer",
                 "stars": 82,
@@ -3920,11 +3920,11 @@
                 "id": 15205201,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T14:48:02Z",
+                "last_commit": "2026-10-16T16:23:35Z",
                 "open_issues": 251,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2361,
+                "stars": 2362,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:53:31.497Z",
+    "last_updated": "2026-10-16T17:42:23.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
