@@ -543,7 +543,7 @@
             "open_issues": 6,
             "owner": "djipco",
             "repo": "webmidi",
-            "stars": 1718,
+            "stars": 1719,
             "topics": [
               "browser",
               "jazz-plugin",
@@ -1111,11 +1111,11 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T10:59:52Z",
+            "last_commit": "2026-10-17T14:22:48Z",
             "open_issues": 58,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14773,
+            "stars": 14778,
             "topics": [
               "javascript",
               "music",
@@ -1566,7 +1566,7 @@
                 "open_issues": 9,
                 "owner": "sebpiq",
                 "repo": "WebPd",
-                "stars": 1002,
+                "stars": 1003,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2285,8 +2285,8 @@
                 "id": 4966271,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T21:07:28Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-17T10:57:45Z",
+                "open_issues": 1,
                 "owner": "stuartmemo",
                 "repo": "qwerty-hancock",
                 "stars": 274,
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3158,
+            "stars": 3159,
             "topics": [
               "audio",
               "computer-music",
@@ -3382,8 +3382,8 @@
                 "id": 129927133,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2024-11-27T15:15:14Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-17T01:07:24Z",
+                "open_issues": 11,
                 "owner": "bbc",
                 "repo": "r-audio",
                 "stars": 182,
@@ -3499,7 +3499,7 @@
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10442,
+                "stars": 10443,
                 "topics": [
                   "audio",
                   "javascript",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:42:23.740Z",
+    "last_updated": "2026-10-17T16:40:15.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
