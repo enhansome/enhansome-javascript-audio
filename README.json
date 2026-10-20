@@ -62,7 +62,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25398,
+            "stars": 25401,
             "topics": [
               "audio",
               "audio-library",
@@ -259,7 +259,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3924,
+            "stars": 3925,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1111,11 +1111,11 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T14:22:48Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-20T17:58:02Z",
+            "open_issues": 59,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14782,
+            "stars": 14785,
             "topics": [
               "javascript",
               "music",
@@ -2148,7 +2148,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-21T05:53:25Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "1j01",
                 "repo": "guitar",
                 "stars": 131,
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6036,
+                "stars": 6035,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2289,7 +2289,7 @@
                 "open_issues": 1,
                 "owner": "stuartmemo",
                 "repo": "qwerty-hancock",
-                "stars": 274,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3162,
+            "stars": 3161,
             "topics": [
               "audio",
               "computer-music",
@@ -3495,7 +3495,7 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-19T07:32:37Z",
+                "last_commit": "2026-10-20T08:24:13Z",
                 "open_issues": 9,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
@@ -3921,7 +3921,7 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T16:23:35Z",
-                "open_issues": 251,
+                "open_issues": 255,
                 "owner": "paulrosen",
                 "repo": "abcjs",
                 "stars": 2364,
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:30:09.421Z",
+    "last_updated": "2026-10-20T18:07:30.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
