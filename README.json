@@ -539,7 +539,7 @@
             "id": 44274144,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T22:25:50Z",
+            "last_commit": "2026-10-22T11:44:01Z",
             "open_issues": 6,
             "owner": "djipco",
             "repo": "webmidi",
@@ -806,7 +806,7 @@
                 "open_issues": 3,
                 "owner": "surikov",
                 "repo": "webaudiofont",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "audio",
                   "audiocontext",
@@ -1111,8 +1111,8 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T04:28:15Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-22T13:29:57Z",
+            "open_issues": 50,
             "owner": "Tonejs",
             "repo": "Tone.js",
             "stars": 14785,
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "audio",
               "instruments",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6035,
+                "stars": 6036,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2256,7 +2256,7 @@
                 "open_issues": 14,
                 "owner": "Wscats",
                 "repo": "piano",
-                "stars": 1173,
+                "stars": 1172,
                 "topics": [
                   "eno",
                   "eno-loader",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3162,
+            "stars": 3163,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1883,
+            "stars": 1882,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 9,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10445,
+                "stars": 10446,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3924,7 +3924,7 @@
                 "open_issues": 255,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2365,
+                "stars": 2366,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:16:13.787Z",
+    "last_updated": "2026-10-22T18:10:31.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
