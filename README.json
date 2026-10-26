@@ -62,7 +62,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25409,
+            "stars": 25413,
             "topics": [
               "audio",
               "audio-library",
@@ -249,7 +249,7 @@
             }
           ],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": ":musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.",
             "homepage": "http://mudcu.be/midi-js/",
             "id": 3457006,
@@ -1112,10 +1112,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-25T14:03:29Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14788,
+            "stars": 14810,
             "topics": [
               "javascript",
               "music",
@@ -2013,7 +2013,7 @@
                 "open_issues": 0,
                 "owner": "dusanpopov",
                 "repo": "Drum-machine",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6039,
+                "stars": 6038,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2465,7 +2465,7 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T15:15:01Z",
+                "last_commit": "2026-10-26T18:09:59Z",
                 "open_issues": 6,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
@@ -3283,7 +3283,7 @@
             "id": 55375779,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T23:46:59Z",
+            "last_commit": "2026-10-25T23:02:33Z",
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
@@ -3496,10 +3496,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T14:18:13Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10449,
+                "stars": 10448,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3890,7 +3890,7 @@
                 "open_issues": 4,
                 "owner": "margox",
                 "repo": "vudio.js",
-                "stars": 254,
+                "stars": 255,
                 "topics": [
                   "audio",
                   "visualization",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:14:22.390Z",
+    "last_updated": "2026-10-26T19:35:24.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
