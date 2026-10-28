@@ -1111,11 +1111,11 @@
             "id": 17618901,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T14:03:29Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-28T03:18:44Z",
+            "open_issues": 49,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14834,
+            "stars": 14847,
             "topics": [
               "javascript",
               "music",
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 551,
+            "stars": 550,
             "topics": [
               "audio",
               "instruments",
@@ -1566,7 +1566,7 @@
                 "open_issues": 9,
                 "owner": "sebpiq",
                 "repo": "WebPd",
-                "stars": 1004,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1707,7 +1707,7 @@
                 "id": 8150190,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T03:52:23Z",
+                "last_commit": "2026-10-28T07:07:15Z",
                 "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
@@ -2465,7 +2465,7 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T18:46:17Z",
+                "last_commit": "2026-10-28T14:14:38Z",
                 "open_issues": 3,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3171,
+            "stars": 3173,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1883,
+            "stars": 1885,
             "topics": [
               "audio",
               "daw",
@@ -3499,7 +3499,7 @@
                 "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10450,
+                "stars": 10451,
                 "topics": [
                   "audio",
                   "javascript",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:59:51.794Z",
+    "last_updated": "2026-10-28T19:08:14.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
