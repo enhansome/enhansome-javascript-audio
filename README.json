@@ -159,7 +159,7 @@
             "open_issues": 0,
             "owner": "notthetup",
             "repo": "smoothfade",
-            "stars": 39,
+            "stars": 38,
             "topics": [
               "fade",
               "gain",
@@ -259,7 +259,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3927,
+            "stars": 3926,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 50,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14866,
+            "stars": 14874,
             "topics": [
               "javascript",
               "music",
@@ -1245,7 +1245,7 @@
             "open_issues": 0,
             "owner": "stevekinney",
             "repo": "octavian",
-            "stars": 182,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2289,7 +2289,7 @@
                 "open_issues": 1,
                 "owner": "stuartmemo",
                 "repo": "qwerty-hancock",
-                "stars": 275,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2465,8 +2465,8 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T16:08:44Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-02T13:13:14Z",
+                "open_issues": 2,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
                 "stars": 418,
@@ -3495,11 +3495,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T17:12:09Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-02T09:25:24Z",
+                "open_issues": 8,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10460,
+                "stars": 10459,
                 "topics": [
                   "audio",
                   "javascript",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:36:12.718Z",
+    "last_updated": "2026-11-02T22:28:51.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
