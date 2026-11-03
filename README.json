@@ -62,7 +62,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25424,
+            "stars": 25425,
             "topics": [
               "audio",
               "audio-library",
@@ -259,7 +259,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3926,
+            "stars": 3925,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 50,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14874,
+            "stars": 14876,
             "topics": [
               "javascript",
               "music",
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 550,
+            "stars": 552,
             "topics": [
               "audio",
               "instruments",
@@ -2227,7 +2227,7 @@
                 "open_issues": 44,
                 "owner": "AutoPiano",
                 "repo": "AutoPiano",
-                "stars": 6036,
+                "stars": 6035,
                 "topics": [
                   "anti-996",
                   "audio-player",
@@ -2465,11 +2465,11 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T13:13:14Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-02T23:16:06Z",
+                "open_issues": 1,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "dls",
                   "midi",
@@ -2846,7 +2846,7 @@
                 "open_issues": 2,
                 "owner": "nicolas-van",
                 "repo": "sonant-x",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "audio",
                   "javascript",
@@ -2872,7 +2872,7 @@
                 "open_issues": 0,
                 "owner": "errozero",
                 "repo": "poly-synth",
-                "stars": 54,
+                "stars": 53,
                 "topics": [
                   "javacript",
                   "synthesizer",
@@ -3249,11 +3249,11 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T01:37:05Z",
+            "last_commit": "2026-11-03T14:59:30Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3178,
+            "stars": 3180,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1888,
+            "stars": 1887,
             "topics": [
               "audio",
               "daw",
@@ -3495,11 +3495,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T09:25:24Z",
+                "last_commit": "2026-11-03T09:39:17Z",
                 "open_issues": 8,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10459,
+                "stars": 10460,
                 "topics": [
                   "audio",
                   "javascript",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:28:51.333Z",
+    "last_updated": "2026-11-03T20:17:27.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
@@ -4077,7 +4077,7 @@
       "open_issues": 10,
       "owner": "sc0ttj",
       "repo": "awesome-javascript-audio",
-      "stars": 52,
+      "stars": 53,
       "topics": [
         "audio",
         "awesome-list",
