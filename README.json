@@ -62,7 +62,7 @@
             "open_issues": 419,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25430,
+            "stars": 25434,
             "topics": [
               "audio",
               "audio-library",
@@ -242,7 +242,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 791,
+                "stars": 792,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -539,8 +539,8 @@
             "id": 44274144,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T07:53:41Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-08T16:11:12Z",
+            "open_issues": 5,
             "owner": "djipco",
             "repo": "webmidi",
             "stars": 1721,
@@ -847,7 +847,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 791,
+                "stars": 792,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1115,7 +1115,7 @@
             "open_issues": 51,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14890,
+            "stars": 14893,
             "topics": [
               "javascript",
               "music",
@@ -1216,7 +1216,7 @@
             "open_issues": 5,
             "owner": "nbrosowsky",
             "repo": "tonejs-instruments",
-            "stars": 553,
+            "stars": 555,
             "topics": [
               "audio",
               "instruments",
@@ -1708,7 +1708,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-28T07:07:15Z",
-                "open_issues": 59,
+                "open_issues": 65,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
                 "stars": 1688,
@@ -2469,7 +2469,7 @@
                 "open_issues": 1,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 422,
+                "stars": 423,
                 "topics": [
                   "dls",
                   "midi",
@@ -3249,11 +3249,11 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T16:48:18Z",
+            "last_commit": "2026-11-08T15:15:58Z",
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3190,
+            "stars": 3191,
             "topics": [
               "audio",
               "computer-music",
@@ -3287,7 +3287,7 @@
             "open_issues": 28,
             "owner": "gridsound",
             "repo": "daw",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "audio",
               "daw",
@@ -3496,7 +3496,7 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-03T09:39:17Z",
-                "open_issues": 11,
+                "open_issues": 15,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
                 "stars": 10462,
@@ -3527,7 +3527,7 @@
                 "open_issues": 73,
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3410,
+                "stars": 3411,
                 "topics": [
                   "audio",
                   "javascript"
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:20:34.259Z",
+    "last_updated": "2026-11-08T18:31:13.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
