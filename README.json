@@ -62,7 +62,7 @@
             "open_issues": 419,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25434,
+            "stars": 25438,
             "topics": [
               "audio",
               "audio-library",
@@ -242,7 +242,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 792,
+                "stars": 793,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -259,7 +259,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3924,
+            "stars": 3926,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -280,7 +280,7 @@
             "open_issues": 9,
             "owner": "grimmdude",
             "repo": "MidiWriterJS",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "audio",
               "es6",
@@ -309,7 +309,7 @@
             "open_issues": 19,
             "owner": "jazz-soft",
             "repo": "JZZ",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "audio",
               "javascript",
@@ -346,7 +346,7 @@
             "open_issues": 7,
             "owner": "grimmdude",
             "repo": "MidiPlayerJS",
-            "stars": 397,
+            "stars": 399,
             "topics": [
               "audio",
               "es6",
@@ -543,7 +543,7 @@
             "open_issues": 5,
             "owner": "djipco",
             "repo": "webmidi",
-            "stars": 1721,
+            "stars": 1722,
             "topics": [
               "browser",
               "jazz-plugin",
@@ -847,7 +847,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 792,
+                "stars": 793,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 3,
             "owner": "stewdio",
             "repo": "beep.js",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "audio",
               "beep",
@@ -1195,7 +1195,7 @@
             "open_issues": 39,
             "owner": "mohayonao",
             "repo": "timbre.js",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1600,7 +1600,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1985,
+                "stars": 1986,
                 "topics": [
                   "audio",
                   "daw",
@@ -1630,7 +1630,7 @@
                 "open_issues": 4,
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1831,
+                "stars": 1832,
                 "topics": [
                   "audio",
                   "audio-effect",
@@ -1657,7 +1657,7 @@
                 "open_issues": 78,
                 "owner": "alemangui",
                 "repo": "pizzicato",
-                "stars": 1709,
+                "stars": 1710,
                 "topics": [
                   "audio",
                   "effects",
@@ -1711,7 +1711,7 @@
                 "open_issues": 65,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1688,
+                "stars": 1690,
                 "topics": [
                   "annotations",
                   "audio",
@@ -2289,7 +2289,7 @@
                 "open_issues": 1,
                 "owner": "stuartmemo",
                 "repo": "qwerty-hancock",
-                "stars": 274,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2465,11 +2465,11 @@
                 "id": 643635315,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T23:41:33Z",
+                "last_commit": "2026-11-09T20:39:47Z",
                 "open_issues": 1,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 423,
+                "stars": 425,
                 "topics": [
                   "dls",
                   "midi",
@@ -2799,7 +2799,7 @@
                 "open_issues": 6,
                 "owner": "hundredrabbits",
                 "repo": "Marabu",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "chiptune",
                   "music",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3191,
+            "stars": 3193,
             "topics": [
               "audio",
               "computer-music",
@@ -3495,11 +3495,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T09:39:17Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-09T22:27:07Z",
+                "open_issues": 32,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10462,
+                "stars": 10465,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3527,7 +3527,7 @@
                 "open_issues": 73,
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3411,
+                "stars": 3412,
                 "topics": [
                   "audio",
                   "javascript"
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:31:13.740Z",
+    "last_updated": "2026-11-09T23:10:13.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
