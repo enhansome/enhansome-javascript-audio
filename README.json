@@ -62,7 +62,7 @@
             "open_issues": 419,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25438,
+            "stars": 25441,
             "topics": [
               "audio",
               "audio-library",
@@ -259,7 +259,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3926,
+            "stars": 3927,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -280,7 +280,7 @@
             "open_issues": 9,
             "owner": "grimmdude",
             "repo": "MidiWriterJS",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "audio",
               "es6",
@@ -309,7 +309,7 @@
             "open_issues": 19,
             "owner": "jazz-soft",
             "repo": "JZZ",
-            "stars": 596,
+            "stars": 597,
             "topics": [
               "audio",
               "javascript",
@@ -543,7 +543,7 @@
             "open_issues": 5,
             "owner": "djipco",
             "repo": "webmidi",
-            "stars": 1722,
+            "stars": 1723,
             "topics": [
               "browser",
               "jazz-plugin",
@@ -1115,7 +1115,7 @@
             "open_issues": 51,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14893,
+            "stars": 14895,
             "topics": [
               "javascript",
               "music",
@@ -1144,7 +1144,7 @@
             "open_issues": 25,
             "owner": "saebekassebil",
             "repo": "teoria",
-            "stars": 1377,
+            "stars": 1378,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 3,
             "owner": "stewdio",
             "repo": "beep.js",
-            "stars": 1369,
+            "stars": 1370,
             "topics": [
               "audio",
               "beep",
@@ -1195,7 +1195,7 @@
             "open_issues": 39,
             "owner": "mohayonao",
             "repo": "timbre.js",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
@@ -1711,7 +1711,7 @@
                 "open_issues": 65,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1690,
+                "stars": 1689,
                 "topics": [
                   "annotations",
                   "audio",
@@ -2256,7 +2256,7 @@
                 "open_issues": 14,
                 "owner": "Wscats",
                 "repo": "piano",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "eno",
                   "eno-loader",
@@ -2469,7 +2469,7 @@
                 "open_issues": 1,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "dls",
                   "midi",
@@ -3253,7 +3253,7 @@
             "open_issues": 2,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3193,
+            "stars": 3196,
             "topics": [
               "audio",
               "computer-music",
@@ -3495,11 +3495,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T22:27:07Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-10T08:55:45Z",
+                "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10465,
+                "stars": 10468,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3824,7 +3824,7 @@
                 "open_issues": 5,
                 "owner": "preziotte",
                 "repo": "party-mode",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "art",
                   "audio",
@@ -3954,7 +3954,7 @@
                 "open_issues": 45,
                 "owner": "nexus-js",
                 "repo": "ui",
-                "stars": 873,
+                "stars": 874,
                 "topics": [
                   "computer-music",
                   "electroacoustic-music",
@@ -4065,7 +4065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:10:13.999Z",
+    "last_updated": "2026-11-10T20:37:32.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
