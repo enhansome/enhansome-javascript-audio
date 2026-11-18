@@ -125,7 +125,7 @@
         {
           "node_type": "item",
           "title": "scriptify/sountility",
-          "description": "includes many small packages for adding, mixing, toggling effects on AudioNodes",
+          "description": "includes many small packages for adding, mixing, and toggling effects on AudioNodes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,12 +170,54 @@
             ]
           },
           "first_seen": "2026-08-28T23:13:32.671Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Browser Music Analysis Kit",
+          "description": "dependency-free pitch, key, Camelot and chord analysis helpers for browser audio projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dependency-free browser music analysis helpers for pitch, key, Camelot, and timestamped chord detection.",
+            "homepage": null,
+            "id": 1368518848,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-13T15:36:11Z",
+            "open_issues": 0,
+            "owner": "j022315051",
+            "repo": "browser-music-analysis-kit",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-18T21:37:13.910Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Browser Music Analysis Kit",
+          "description": "dependency-free pitch, key, Camelot and chord analysis helpers for browser audio projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dependency-free browser music analysis helpers for pitch, key, Camelot, and timestamped chord detection.",
+            "homepage": null,
+            "id": 1368518848,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-13T15:36:11Z",
+            "open_issues": 0,
+            "owner": "j022315051",
+            "repo": "browser-music-analysis-kit",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-18T21:37:13.910Z"
         }
       ],
       "title": "Libraries: Web Audio API"
     },
     {
-      "description": "These can play MIDI files, and handle MIDI input/output messages from MIDI instruments, etc:\nThese are tools for managing MIDI instruments (hardware instruments/devices):",
+      "description": "These can play MIDI files and handle MIDI input/output messages from MIDI instruments, among other functions.\nThese are tools for managing MIDI instruments (hardware instruments/devices):",
       "items": [
         {
           "node_type": "item",
@@ -224,7 +266,7 @@
         {
           "node_type": "item",
           "title": "mudcube/MIDI.js",
-          "description": "can play midi files using the given soundFonts",
+          "description": "can play MIDI files using the given soundFonts",
           "children": [
             {
               "node_type": "item",
@@ -242,7 +284,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 793,
+                "stars": 794,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -280,7 +322,7 @@
             "open_issues": 10,
             "owner": "grimmdude",
             "repo": "MidiWriterJS",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "audio",
               "es6",
@@ -670,12 +712,73 @@
       "title": "Libraries: Web MIDI API"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "google/audion",
+          "description": "adds a new tab to Chrome DevTools with a node editor to view your AudioNodes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.",
+            "homepage": "https://chrome.google.com/webstore/detail/web-audio-inspector/cmhomipkklckpomafalojobppmmidlgl",
+            "id": 61396247,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-06-24T05:43:17Z",
+            "open_issues": 25,
+            "owner": "GoogleChrome",
+            "repo": "audion",
+            "stars": 395,
+            "topics": [
+              "chrome-extension",
+              "developer-tools",
+              "web-audio"
+            ]
+          },
+          "first_seen": "2026-11-18T21:37:13.910Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Browser Lab",
+          "description": "reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first browser audio forensics for MP3 structure, Howler timelines, seeking, codecs, range delivery, and cross-browser reports.",
+            "homepage": "https://aribradshaw.github.io/audio-browser-lab/",
+            "id": 1340213501,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-20T07:32:47Z",
+            "open_issues": 1,
+            "owner": "aribradshaw",
+            "repo": "audio-browser-lab",
+            "stars": 0,
+            "topics": [
+              "audio",
+              "browser-audio",
+              "developer-tools",
+              "howler",
+              "mcp",
+              "mp3",
+              "wavesurfer",
+              "web-audio"
+            ]
+          },
+          "first_seen": "2026-11-18T21:37:13.910Z"
+        }
+      ],
+      "title": "Developer tools"
+    },
+    {
       "description": "Tutorials and teachers:",
       "items": [
         {
           "node_type": "item",
           "title": "scribbletune/johann",
-          "description": "Generate chord & scale charts to practice - for guitar, piano and PC keyboard (repo)",
+          "description": "Generate chord & scale charts to practice - for guitar, piano, and PC keyboard (repo)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -709,7 +812,7 @@
             "open_issues": 7,
             "owner": "bobbyrne01",
             "repo": "play-along",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "beats",
               "drum-machine",
@@ -793,7 +896,7 @@
             {
               "node_type": "item",
               "title": "surikov/webaudiofont",
-              "description": "use full GM set of musical instruments to play MIDI and single sounds or effects",
+              "description": "use a full GM set of musical instruments to play MIDI and single sounds or effects",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -806,7 +909,7 @@
                 "open_issues": 3,
                 "owner": "surikov",
                 "repo": "webaudiofont",
-                "stars": 989,
+                "stars": 990,
                 "topics": [
                   "audio",
                   "audiocontext",
@@ -847,7 +950,7 @@
                 "open_issues": 5,
                 "owner": "gleitz",
                 "repo": "midi-js-soundfonts",
-                "stars": 793,
+                "stars": 794,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -902,7 +1005,7 @@
             {
               "node_type": "item",
               "title": "PatrickWolleb/SoundFontJS",
-              "description": "Node JS CLI for creating MIDI.JS ready sound fonts",
+              "description": "Node JS CLI for creating MIDI.js-ready sound fonts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1028,7 +1131,7 @@
             {
               "node_type": "item",
               "title": "montyanderson/soundfont-parser",
-              "description": "soundfont parser that gets the detais/contents of .sfz files",
+              "description": "soundfont parser that gets the details/contents of .sfz files",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1115,7 +1218,7 @@
             "open_issues": 52,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14924,
+            "stars": 14930,
             "topics": [
               "javascript",
               "music",
@@ -1131,7 +1234,7 @@
         {
           "node_type": "item",
           "title": "teoria",
-          "description": "create notes, chords, scales, intervals.. get notes form intervals, and more..",
+          "description": "create notes, chords, scales, intervals.. get notes from intervals, and more..",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1253,7 +1356,7 @@
         {
           "node_type": "item",
           "title": "simpleTones",
-          "description": "create tones of a specfic note - add sawtooth, sine, triangle, etc, to modify",
+          "description": "create tones of a specific note - add sawtooth, sine, triangle, etc, to modify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1544,7 +1647,7 @@
               "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
-          "description": "These produce sounds which oscillate between two values on a low frequency, following a given waveform. LFOs are usually used to create effects like pitch wobble, tremelo, and wah-wah-wah stuff. These effect are then applied to notes, synths or instruments.",
+          "description": "These produce sounds which oscillate between two values on a low frequency, following a given waveform. LFOs are usually used to create effects like pitch wobble, tremolo, and wah-wah-wah stuff. These effects are then applied to notes, synths, or instruments.",
           "node_type": "group",
           "title": "Low frequency oscillators (\"LFOs\"):"
         },
@@ -1742,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "mohayonao/adsr-envelope",
-              "description": "attack, delay, sustain, release and MORE, lots of options",
+              "description": "attack, delay, sustain, release, and MORE, lots of options",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1840,7 +1943,7 @@
             {
               "node_type": "item",
               "title": "eAudio",
-              "description": "the \"Extended HTML Audio Object\" - adds an equalizier",
+              "description": "the \"Extended HTML Audio Object\" - adds an equalizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1908,7 +2011,7 @@
               "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
-          "description": "For Editing and adding effects to vocals.",
+          "description": "For editing and adding effects to vocals.",
           "node_type": "group",
           "title": "Vocoders"
         }
@@ -1916,7 +2019,7 @@
       "title": "Sound editing"
     },
     {
-      "description": "Frontends and UIs to load & your play your sounds.",
+      "description": "Frontends and UIs to load & play your sounds.",
       "items": [
         {
           "children": [
@@ -2110,7 +2213,7 @@
             {
               "node_type": "item",
               "title": "vitaliy-bobrov/js-rocks",
-              "description": "lots of nice electric guitar effects, amps and cabinets",
+              "description": "lots of nice electric guitar effects, amps, and cabinets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2323,7 +2426,7 @@
             {
               "node_type": "item",
               "title": "midi-with-node",
-              "description": "a web based GUI & NodeJS backend that can register as a MIDI device in your DAW",
+              "description": "a web-based GUI & NodeJS backend that can register as a MIDI device in your DAW",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2533,7 +2636,7 @@
             {
               "node_type": "item",
               "title": "tinysynth",
-              "description": "a nice little sequencer, easy to use, nice UI, generate random tracks",
+              "description": "a nice little sequencer, easy to use, nice UI, generates random tracks",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2574,7 +2677,7 @@
                 "open_issues": 2,
                 "owner": "hatsumatsu",
                 "repo": "108",
-                "stars": 213,
+                "stars": 212,
                 "topics": [
                   "beatbox",
                   "instrument",
@@ -2676,7 +2779,7 @@
             {
               "node_type": "item",
               "title": "andrefcasimiro/midikrew",
-              "description": "full fledged music sequencer, built with React",
+              "description": "full-fledged music sequencer, built with React",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2756,7 +2859,7 @@
               "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
-          "description": "Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, bass-lines, loops and so on.",
+          "description": "Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, bass lines, loops, and so on.",
           "node_type": "group",
           "title": "Sequencers & Trackers"
         },
@@ -2812,7 +2915,7 @@
             {
               "node_type": "item",
               "title": "webaudio-tinysynth",
-              "description": "webaudio-tinysynth is a small synthesizer written in JavaScript with GM like timbre map",
+              "description": "webaudio-tinysynth is a small synthesizer written in JavaScript with GM-like timbre map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3166,7 +3269,7 @@
               "first_seen": "2026-08-28T23:13:32.671Z"
             }
           ],
-          "description": "Generate and edit your own sounds, voices and sound effects.",
+          "description": "Generate and edit your own sounds, voices, and sound effects.",
           "node_type": "group",
           "title": "Synths"
         },
@@ -3253,7 +3356,7 @@
             "open_issues": 1,
             "owner": "zrythm",
             "repo": "zrythm",
-            "stars": 3209,
+            "stars": 3211,
             "topics": [
               "audio",
               "computer-music",
@@ -3453,7 +3556,7 @@
             {
               "node_type": "item",
               "title": "react-midi-device-provider",
-              "description": "simple MIDI device/messages handler for react",
+              "description": "simple MIDI device/messages handler for React",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3499,7 +3602,7 @@
                 "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10478,
+                "stars": 10481,
                 "topics": [
                   "audio",
                   "javascript",
@@ -3527,7 +3630,7 @@
                 "open_issues": 73,
                 "owner": "bbc",
                 "repo": "peaks.js",
-                "stars": 3413,
+                "stars": 3414,
                 "topics": [
                   "audio",
                   "javascript"
@@ -3877,7 +3980,7 @@
             {
               "node_type": "item",
               "title": "margox/vudio.js",
-              "description": "very nice bouncing bars, can place or align at top, bottom, left, right or center",
+              "description": "very nice bouncing bars, can place or align at top, bottom, left, right, or center",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3920,7 +4023,7 @@
                 "id": 15205201,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T17:46:12Z",
+                "last_commit": "2026-11-18T17:31:58Z",
                 "open_issues": 266,
                 "owner": "paulrosen",
                 "repo": "abcjs",
@@ -3941,7 +4044,7 @@
             {
               "node_type": "item",
               "title": "nexus-js/ui",
-              "description": "very nice UI toolkit for web based MIDI instrument UI components (used by nofft, above)",
+              "description": "very nice UI toolkit for web-based MIDI instrument UI components (used by nofft, above)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4065,7 +4168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:55:13.318Z",
+    "last_updated": "2026-11-18T21:37:13.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
@@ -4073,8 +4176,8 @@
       "id": 260557326,
       "language": null,
       "license": null,
-      "last_commit": "2025-09-04T11:04:16Z",
-      "open_issues": 11,
+      "last_commit": "2026-11-18T18:39:27Z",
+      "open_issues": 0,
       "owner": "sc0ttj",
       "repo": "awesome-javascript-audio",
       "stars": 54,
@@ -4089,7 +4192,7 @@
         "web-midi-api"
       ]
     },
-    "original_repository_sha": "78281b0497ab868c2ad9cbe032aac55e8176c22d",
+    "original_repository_sha": "2c7bafa72cad605b5423c72234795d970b29155e",
     "enhanced_repository": "enhansome/enhansome-javascript-audio",
     "enhanced_repository_description": null,
     "title": "Awesome JavaScript Audio with stars"
