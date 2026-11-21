@@ -52,7 +52,7 @@ JavaScript tools, libraries, and components for creating/managing audio, sounds,
 
 ## Libraries: Web Audio API
 
-* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,452 | 🐛 419 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
+* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,454 | 🐛 419 | 🌐 JavaScript | 📅 2025-11-23 - cross-browser audio library, 7kb, with multi-track, caching, falls back to HTML5 audio
 
 * [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - micro library to load, generate and play sounds
 
@@ -142,7 +142,7 @@ High-quality recordings of instruments, nicely organised into separate files, in
 
 Programmatically create notes, chords, intervals, effects, etc:
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,933 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-20 - A Web Audio framework for making interactive music in the browser
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,939 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-20 - A Web Audio framework for making interactive music in the browser
 * [teoria](https://github.com/saebekassebil/teoria) ⭐ 1,377 | 🐛 25 | 🌐 JavaScript | 📅 2019-12-01 - create notes, chords, scales, intervals.. get notes from intervals, and more..
 * [beep.js](https://github.com/stewdio/beep.js) ⭐ 1,371 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - a JavaScript toolkit for building browser-based synthesizers
 * [timbre.js](https://github.com/mohayonao/timbre.js/) ⚠️ Archived - JavaScript library for objective sound programming (archived)
@@ -169,7 +169,7 @@ These produce sounds which oscillate between two values on a low frequency, foll
 
 ### Pure Data (PD) patches
 
-* [sebpiq/WebPd](https://github.com/sebpiq/WebPd) ⭐ 1,006 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-02 - use your [Pure Data](https://puredata.info/) [patches](https://puredata.info/community/member-downloads/patches) in Javascript
+* [sebpiq/WebPd](https://github.com/sebpiq/WebPd) ⭐ 1,007 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-02 - use your [Pure Data](https://puredata.info/) [patches](https://puredata.info/community/member-downloads/patches) in Javascript
 
 ## Sound editing
 
@@ -243,7 +243,7 @@ Frontends and UIs to load & play your sounds.
 
 Use (often) grid-based, stepped/looping sequencer UIs to generate beats, riffs, bass lines, loops, and so on.
 
-* [SpessaSynth](https://github.com/spessasus/SpessaSynth) ⭐ 427 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - MIDI player with tracker, loads of settings
+* [SpessaSynth](https://github.com/spessasus/SpessaSynth) ⭐ 428 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - MIDI player with tracker, loads of settings
 * [efflux-tracker](https://github.com/igorski/efflux-tracker) ⭐ 263 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-29 - browser based music tracker ([here](https://www.igorski.nl/application/efflux/)) driving a modular synth environment with MIDI support
 * [tinysynth](https://github.com/n1k0/tinysynth) ⚠️ Archived - a nice little sequencer, easy to use, nice UI, generates random tracks
 * [hatsumatsu/108](https://github.com/hatsumatsu/108) ⭐ 212 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - a slick, minimalist circular beat sequencer
@@ -287,7 +287,7 @@ These are more complete - they have multiple instruments.
 
 A "DAW" is a digital audio workstation - an all-round music production app
 
-* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,215 | 🐛 1 | 🌐 C++ | 📅 2026-11-20 - requires isgn up. A highly automated and intuitive DAW
+* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,218 | 🐛 1 | 🌐 C++ | 📅 2026-11-21 - requires isgn up. A highly automated and intuitive DAW
 * [gridsound](https://github.com/gridsound/daw) ⭐ 1,900 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-31 - a lovely open source DAW, uses Web Audio API
 * [TReactor](https://github.com/kevin-chau/TReactr) ⭐ 35 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-22 - a Traktor clone, written in React
 * [XinDaw](https://github.com/dotgreg/XinDaw) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-02 - a multiscreen Web-based DAW designed for audio\&video live performances (Tone.js/React/Meteor)
@@ -308,7 +308,7 @@ A "DAW" is a digital audio workstation - an all-round music production app
 
 ### Visual waveform generators
 
-* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,481 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-12 - generate navigable waveforms
+* [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,482 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-12 - generate navigable waveforms
 * [bbc/peaks.js](https://github.com/bbc/peaks.js) ⭐ 3,413 | 🐛 73 | 🌐 JavaScript | 📅 2026-10-21 - UI component for interacting with waveforms
 * [WFPlayer](https://github.com/zhw2590582/WFPlayer) ⚠️ Archived - an audio waveform generator, nice features
 * [audio-oscilloscope](https://github.com/mathiasvr/audio-oscilloscope) ⭐ 96 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-06 - waveform vizualiser for HTML5 Canvas
@@ -337,13 +337,13 @@ Link your sounds, effects, inputs & outputs together with a drag and drop interf
 
 ### Other UI
 
-* [paulrosen/abcjs](https://github.com/paulrosen/abcjs) ⭐ 2,374 | 🐛 266 | 🌐 HTML | 📅 2026-11-18 - for rendering music notation
+* [paulrosen/abcjs](https://github.com/paulrosen/abcjs) ⭐ 2,374 | 🐛 267 | 🌐 HTML | 📅 2026-11-18 - for rendering music notation
 * [nexus-js/ui](https://github.com/nexus-js/ui) ⭐ 873 | 🐛 45 | 🌐 JavaScript | 📅 2025-07-03 - very nice UI toolkit for web-based MIDI instrument [UI components](https://nexus-js.github.io/ui/) (used by nofft, above)
-* [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls) ⭐ 373 | 🐛 20 | 🌐 JavaScript | 📅 2025-10-04 - web components aimed at VST instruments, DAWs, etc
+* [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls) ⭐ 374 | 🐛 20 | 🌐 JavaScript | 📅 2025-10-04 - web components aimed at VST instruments, DAWs, etc
 * [ISNIT0/webaudio-generator](https://github.com/ISNIT0/webaudio-generator) ⭐ 62 | 🐛 8 | 🌐 TypeScript | 📅 2022-12-08 - a UI for generating Web Audio API code
 * [g200kg/input-knobs](https://github.com/g200kg/input-knobs) ⭐ 59 | 🐛 2 | 🌐 HTML | 📅 2021-10-31 - turns `<input>` tags into sliders, knobs, etc
 * [williamfields/nofft.js](https://github.com/williamfields/nofft.js) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-04 - Javascript library for creating MIDI-responsive visuals
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
