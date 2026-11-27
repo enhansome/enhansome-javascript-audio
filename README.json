@@ -62,7 +62,7 @@
             "open_issues": 419,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25463,
+            "stars": 25465,
             "topics": [
               "audio",
               "audio-library",
@@ -1218,7 +1218,7 @@
             "open_issues": 53,
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14968,
+            "stars": 14971,
             "topics": [
               "javascript",
               "music",
@@ -1810,8 +1810,8 @@
                 "id": 8150190,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T22:28:10Z",
-                "open_issues": 135,
+                "last_commit": "2026-11-27T22:14:41Z",
+                "open_issues": 133,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
                 "stars": 1697,
@@ -2039,7 +2039,7 @@
                 "open_issues": 7,
                 "owner": "cwilso",
                 "repo": "MIDIDrums",
-                "stars": 360,
+                "stars": 359,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -2572,7 +2572,7 @@
                 "open_issues": 2,
                 "owner": "spessasus",
                 "repo": "SpessaSynth",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "dls",
                   "midi",
@@ -3352,7 +3352,7 @@
             "id": 196362588,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T09:01:10Z",
+            "last_commit": "2026-11-27T15:21:34Z",
             "open_issues": 1,
             "owner": "zrythm",
             "repo": "zrythm",
@@ -4027,7 +4027,7 @@
                 "open_issues": 269,
                 "owner": "paulrosen",
                 "repo": "abcjs",
-                "stars": 2378,
+                "stars": 2379,
                 "topics": [
                   "abc-notation",
                   "abcjs",
@@ -4085,7 +4085,7 @@
                 "open_issues": 20,
                 "owner": "g200kg",
                 "repo": "webaudio-controls",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:32.671Z"
@@ -4168,7 +4168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:37:52.327Z",
+    "last_updated": "2026-11-27T22:21:51.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "JavaScript tools, libraries and components for creating/managing audio, sounds and music",
